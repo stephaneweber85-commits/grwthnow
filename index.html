@@ -1456,7 +1456,7 @@ const OBJECTIONS_R2=['12% c\'est beaucoup, vous pouvez pas faire moins ?','Je ve
 const OBJECTIONS_R3=["Finalement j'ai décidé de rester comme ça pour l'instant.","J'ai signé avec une autre agence.","Mon associé est pas convaincu.","Je veux voir les résultats d'un autre client d'abord.","Le 12% me bloque encore.","Je manque de temps pour m'impliquer là-dedans."];
 const ALL_OBJECTIONS=[...OBJECTIONS_R1,...OBJECTIONS_R2,...OBJECTIONS_R3];
 const PHRASES_R1=[
-  {stage:'Intro',items:['Bonjour [Prénom], c\'est ${currentUser?.name||'le commercial'}. J\'ai regardé votre entreprise avant qu\'on se parle — vous êtes bien spécialisés en [spécialité] sur [zone] ?','Qu\'est-ce qui vous a décidé à remplir notre formulaire ?','Vous en êtes où en ce moment en termes de chantiers par mois ?']},
+  {stage:'Intro',items:['Bonjour [Prénom], c\'est votre coach commercial. J\'ai regardé votre entreprise avant qu\'on se parle — vous êtes bien spécialisés en [spécialité] sur [zone] ?','Qu\'est-ce qui vous a décidé à remplir notre formulaire ?','Vous en êtes où en ce moment en termes de chantiers par mois ?']},
   {stage:'Acquisition',items:['Comment vous trouvez vos chantiers aujourd\'hui ?','Ces leads — combien d\'autres couvreurs les reçoivent en même temps ?','Dans combien de temps vous rappelez un propriétaire qui fait une demande ?']},
   {stage:'Douleurs',items:['Si je résume : vos leads sont froids parce que la concurrence les a déjà appelés. C\'est ça le problème principal ?','Cette irrégularité — ça veut dire qu\'il y a des mois où votre équipe tourne au ralenti ?','Qu\'est-ce qui vous manque pour passer de [X] à [Y] chantiers/mois ?']},
   {stage:'Transition R2',items:['Je prends 2-3 jours pour construire un plan sur mesure. On se rappelle jeudi à 14h — ça vous va ?','Je ne vous donne pas de chiffres aujourd\'hui — je veux d\'abord construire quelque chose de précis pour vous.','Si on règle le problème d\'acquisition, qu\'est-ce que ça change concrètement pour vous ?']},
@@ -2334,7 +2334,7 @@ function renderMarathonQuestion(){
       <div class="marathon-input-area">
         <textarea class="marathon-input" id="marathonInput" placeholder="Ta réponse à cette objection..." rows="3"></textarea>
         <div class="marathon-input-footer">
-          <div class="marathon-hint">Réponds comme si tu étais ${currentUser?.name||'le commercial'} en call.</div>
+          <div class="marathon-hint">Réponds comme si tu étais le closer en call.</div>
           <button class="btn-marathon" id="marathonSubmitBtn" onclick="submitMarathonAnswer()">
             Valider ma réponse
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
