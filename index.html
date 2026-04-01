@@ -19,7 +19,7 @@
   --violet2:#8B5CF6;
   --violet-soft:rgba(110,63,243,.1);
   --violet-soft2:rgba(110,63,243,.06);
-  --cyan:#0EA5E
+  --cyan:#0EA5
   --cyan-soft:rgba(14,165,233,.1);
   --green:#10B981;
   --green-soft:rgba(16,185,129,.1);
@@ -817,7 +817,7 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);displ
 </div>
 
 <!-- ═══════════ SIDEBAR ═══════════ -->
-<nav class="sidebar">
+<nav class="sidebar" id="mainSidebar">
   <div class="sidebar-logo">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
   </div>
@@ -864,7 +864,7 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);displ
   </div>
 </nav>
 
-<div class="app">
+<div class="app" id="mainApp">
 
 <!-- ═══════════ LOADING OVERLAY ═══════════ -->
 <div class="overlay hidden" id="overlay">
@@ -1080,7 +1080,7 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);displ
       <div class="dash-card">
         <div class="dash-card-title">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-          Programme 5 jours
+          Programme 10 jours
         </div>
         <div class="program-grid" id="programGrid"></div>
       </div>
@@ -1171,7 +1171,7 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);displ
       <div class="chain-action-bar" id="chainActionBar"></div>
       <div class="input-area">
         <div class="input-wrap">
-          <textarea class="input-field" id="inputField" placeholder="Votre réponse à Stéphanie..." rows="1" disabled></textarea>
+          <textarea class="input-field" id="inputField" placeholder="Votre réponse..." rows="1" disabled></textarea>
           <button class="send-btn" id="sendBtn" onclick="sendMessage()" disabled>
             <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
           </button>
@@ -1323,7 +1323,7 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);displ
     <div class="topbar-logo">GRWTH<span style="-webkit-text-fill-color:initial;color:var(--pink)">·</span>Coaching</div>
     <div class="topbar-sep"></div>
     <div class="topbar-title">Classement</div>
-    <div class="topbar-sub" style="margin-left:8px">Stéphanie vs Sébastien — semaine en cours</div>
+    <div class="topbar-sub" style="margin-left:8px">Classement — semaine en cours</div>
   </div>
   <div class="leaderboard-scroll" id="leaderboardScroll">
     <div style="text-align:center;padding:60px;color:var(--text3)"><div class="spinner" style="margin:0 auto 12px"></div><div style="font-size:13px">Chargement...</div></div>
@@ -1456,7 +1456,7 @@ const OBJECTIONS_R2=['12% c\'est beaucoup, vous pouvez pas faire moins ?','Je ve
 const OBJECTIONS_R3=["Finalement j'ai décidé de rester comme ça pour l'instant.","J'ai signé avec une autre agence.","Mon associé est pas convaincu.","Je veux voir les résultats d'un autre client d'abord.","Le 12% me bloque encore.","Je manque de temps pour m'impliquer là-dedans."];
 const ALL_OBJECTIONS=[...OBJECTIONS_R1,...OBJECTIONS_R2,...OBJECTIONS_R3];
 const PHRASES_R1=[
-  {stage:'Intro',items:['Bonjour [Prénom], c\'est Stéphanie. J\'ai regardé votre entreprise avant qu\'on se parle — vous êtes bien spécialisés en [spécialité] sur [zone] ?','Qu\'est-ce qui vous a décidé à remplir notre formulaire ?','Vous en êtes où en ce moment en termes de chantiers par mois ?']},
+  {stage:'Intro',items:['Bonjour [Prénom], c\'est ${currentUser?.name||'le commercial'}. J\'ai regardé votre entreprise avant qu\'on se parle — vous êtes bien spécialisés en [spécialité] sur [zone] ?','Qu\'est-ce qui vous a décidé à remplir notre formulaire ?','Vous en êtes où en ce moment en termes de chantiers par mois ?']},
   {stage:'Acquisition',items:['Comment vous trouvez vos chantiers aujourd\'hui ?','Ces leads — combien d\'autres couvreurs les reçoivent en même temps ?','Dans combien de temps vous rappelez un propriétaire qui fait une demande ?']},
   {stage:'Douleurs',items:['Si je résume : vos leads sont froids parce que la concurrence les a déjà appelés. C\'est ça le problème principal ?','Cette irrégularité — ça veut dire qu\'il y a des mois où votre équipe tourne au ralenti ?','Qu\'est-ce qui vous manque pour passer de [X] à [Y] chantiers/mois ?']},
   {stage:'Transition R2',items:['Je prends 2-3 jours pour construire un plan sur mesure. On se rappelle jeudi à 14h — ça vous va ?','Je ne vous donne pas de chiffres aujourd\'hui — je veux d\'abord construire quelque chose de précis pour vous.','Si on règle le problème d\'acquisition, qu\'est-ce que ça change concrètement pour vous ?']},
@@ -1474,16 +1474,16 @@ const PHRASES_R2=[
   {stage:'Closing',items:['Notre modèle : 12% du HT de chaque chantier signé. Zéro setup, zéro retainer.','Est-ce que ce partenariat vous correspond ?','Quelle est la chose dont vous auriez besoin d\'être certain avant de vous engager ?']},
 ];
 const PROGRAM_DAYS=[
-  {day:1,title:'R1 · Maîtriser les questions',sub:'5 calls Facile — écoute pure',mode:'r1',diff:'easy',target:5,grad:'var(--grad-r1)'},
-  {day:2,title:'R1 · Résistance + douleurs',sub:'5 calls Moyen — creuser les blocages',mode:'r1',diff:'medium',target:5,grad:'var(--grad-r1)'},
-  {day:3,title:'R1 · Mode Difficile',sub:'5 calls Difficile — couvreurs hostiles',mode:'r1',diff:'hard',target:5,grad:'var(--grad-r1)'},
-  {day:4,title:'Marathon · Objections R1',sub:'3 marathons — maîtriser les objections',mode:'marathon',diff:'medium',target:3,grad:'var(--grad-marathon)'},
-  {day:5,title:'R1→R2 · Chaîne complète',sub:'3 chaînes R1+R2 enchaînées',mode:'r2',diff:'easy',target:3,chain:true,grad:'var(--grad-r1)'},
-  {day:6,title:'R2 · Closing Moyen',sub:"4 calls R2 Moyen — présenter l'offre",mode:'r2',diff:'medium',target:4,grad:'var(--grad-r2)'},
-  {day:7,title:'R2 · Closing Difficile',sub:'4 calls R2 Difficile — sous pression',mode:'r2',diff:'hard',target:4,grad:'var(--grad-r2)'},
-  {day:8,title:'R3 · Follow-up',sub:'3 calls R3 — couvreur qui hésite',mode:'r3',diff:'medium',target:3,grad:'var(--grad-r3)'},
-  {day:9,title:'R3 · Follow-up Difficile',sub:'3 calls R3 + Marathon x2',mode:'r3',diff:'hard',target:3,grad:'var(--grad-r3)'},
-  {day:10,title:'Simulation complète',sub:'R1+R2+R3 enchaînés × 2',mode:'r1',diff:'hard',target:2,chain:true,final:true,grad:'var(--grad)'},
+  {day:1,title:'R1 \u00b7 Ma\u00eetriser les questions',sub:'5 calls Facile \u2014 \u00e9coute pure',mode:'r1',diff:'easy',target:5,threshold:75,grad:'var(--grad-r1)'},
+  {day:2,title:'R1 \u00b7 R\u00e9sistance + douleurs',sub:'5 calls Moyen \u2014 creuser les blocages',mode:'r1',diff:'medium',target:5,threshold:75,grad:'var(--grad-r1)'},
+  {day:3,title:'R1 \u00b7 Mode Difficile',sub:'5 calls Difficile \u2014 couvreurs hostiles',mode:'r1',diff:'hard',target:5,threshold:78,grad:'var(--grad-r1)'},
+  {day:4,title:'Marathon \u00b7 Objections R1',sub:'3 marathons \u2014 ma\u00eetriser les objections',mode:'marathon',diff:'medium',target:3,threshold:78,grad:'var(--grad-marathon)'},
+  {day:5,title:'R1\u2192R2 \u00b7 Cha\u00eene compl\u00e8te',sub:'3 cha\u00eenes R1+R2 encha\u00een\u00e9es',mode:'r2',diff:'easy',target:3,threshold:80,chain:true,grad:'var(--grad-r1)'},
+  {day:6,title:'R2 \u00b7 Closing Moyen',sub:"4 calls R2 Moyen \u2014 pr\u00e9senter l\u2019offre",mode:'r2',diff:'medium',target:4,threshold:80,grad:'var(--grad-r2)'},
+  {day:7,title:'R2 \u00b7 Closing Difficile',sub:'4 calls R2 Difficile \u2014 sous pression',mode:'r2',diff:'hard',target:4,threshold:82,grad:'var(--grad-r2)'},
+  {day:8,title:'R3 \u00b7 Follow-up',sub:'3 calls R3 \u2014 couvreur qui h\u00e9site',mode:'r3',diff:'medium',target:3,threshold:82,grad:'var(--grad-r3)'},
+  {day:9,title:'R3 \u00b7 Follow-up Difficile',sub:'3 calls R3 + Marathon x2',mode:'r3',diff:'hard',target:3,threshold:85,grad:'var(--grad-r3)'},
+  {day:10,title:'Simulation compl\u00e8te',sub:'R1+R2+R3 encha\u00een\u00e9s \u00d7 2',mode:'r1',diff:'hard',target:2,threshold:85,chain:true,final:true,grad:'var(--grad)'},
 ];
 const INTERCOACH_TIPS={
   ecoute:["T'as tendance à trop parler. Prochain call : pose une question, ferme-la, et laisse le couvreur aller jusqu'au bout sans l'interrompre.","Travaille l'écoute active : reformule ce qu'il dit avant de poser ta prochaine question. Ça crée de la confiance."],
@@ -1589,7 +1589,7 @@ function renderProgram(sessions){
     if(ds.length<prog.target)return false;
     const scored=ds.filter(s=>s.score>0);
     if(!scored.length)return prog.mode==='marathon';
-    return Math.round(scored.reduce((a,s)=>a+s.score,0)/scored.length)>=SCORE_THRESHOLD||prog.mode==='marathon';
+    return Math.round(scored.reduce((a,s)=>a+s.score,0)/scored.length)>=(prog.threshold||SCORE_THRESHOLD)||prog.mode==='marathon';
   }
   PROGRAM_DAYS.forEach((prog,idx)=>{
     const daySessions=weekSessions.filter(s=>s.mode===prog.mode&&(prog.mode==='marathon'||s.difficulty===prog.diff));
@@ -1609,7 +1609,7 @@ function renderProgram(sessions){
     const numStyle=done?'background:var(--green);color:white':isActive?`background:${prog.grad};color:white`:'background:var(--surface3);color:var(--text2)';
     let badge='';
     if(done) badge=`<span class="prog-day-badge" style="background:var(--green-soft);color:var(--green);border:1px solid rgba(16,185,129,.25)">${count}/${prog.target} ✓</span>`;
-    else if(!unlocked) badge=`<span class="prog-day-badge" style="background:var(--red-soft);color:var(--red);border:1px solid rgba(239,68,68,.2)">🔒 ${SCORE_THRESHOLD}% min requis</span>`;
+    else if(!unlocked) badge=`<span class="prog-day-badge" style="background:var(--red-soft);color:var(--red);border:1px solid rgba(239,68,68,.2)">🔒 ${idx>0?PROGRAM_DAYS[idx-1].threshold:SCORE_THRESHOLD}% min requis</span>`;
     else badge=`<span class="prog-day-badge" style="background:var(--violet-soft);color:var(--violet);border:1px solid rgba(110,63,243,.2)">${count}/${prog.target}${avg?' · '+avg+'%':''}</span>`;
     el.innerHTML=`<div class="prog-day-num" style="${numStyle}">${prog.day}</div><div class="prog-day-info"><div class="prog-day-title">${prog.title}</div><div class="prog-day-sub">${prog.sub}</div></div>${badge}`;
     grid.appendChild(el);
@@ -1628,7 +1628,65 @@ function renderInterCoach(sessions){
 }
 
 // ═══════════════════════════════════════════════════════
-// INIT
+
+    // INPUT HELPERS
+    function enableInput(){
+      const inp=document.getElementById('inputField');
+      const btn=document.getElementById('sendBtn');
+      if(inp){inp.disabled=false;inp.focus();}
+      if(btn)btn.disabled=false;
+    }
+    function disableInput(){
+      const inp=document.getElementById('inputField');
+      const btn=document.getElementById('sendBtn');
+      if(inp)inp.disabled=true;
+      if(btn)btn.disabled=true;
+    }
+
+    // REPORT STATS
+    async function renderReportStats(){
+      if(!currentUser)return;
+      const sessions=await DB.getSessions(currentUser.id);
+      const ws=getWeekSessions(sessions);
+      const scored=ws.filter(s=>s.score>0);
+      const avg=scored.length?Math.round(scored.reduce((a,s)=>a+s.score,0)/scored.length):0;
+      const best=scored.length?Math.max(...scored.map(s=>s.score)):0;
+      const el=document.getElementById('reportStats');
+      if(el)el.innerHTML='<div class="stat-row"><div class="stat-box"><div class="stat-val">'+ws.length+'</div><div class="stat-label">Calls cette semaine</div></div><div class="stat-box"><div class="stat-val">'+avg+'%</div><div class="stat-label">Score moyen</div></div><div class="stat-box"><div class="stat-val">'+best+'%</div><div class="stat-label">Meilleur score</div></div></div>';
+      const chartEl=document.getElementById('reportChart');
+      if(chartEl&&scored.length){
+        const ctx=chartEl.getContext('2d');
+        if(window._reportChart)window._reportChart.destroy();
+        window._reportChart=new Chart(ctx,{type:'line',data:{labels:scored.map((_,i)=>'#'+(i+1)),datasets:[{data:scored.map(s=>s.score),borderColor:'#6E3FF3',backgroundColor:'rgba(110,63,243,.1)',fill:true,tension:.3,pointRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{min:0,max:100,ticks:{callback:v=>v+'%'}}}}});
+      }
+    }
+    async function generateReport(){
+      if(!currentUser)return;
+      const btn=document.getElementById('generateReportBtn');
+      if(btn)btn.disabled=true;
+      const sessions=await DB.getSessions(currentUser.id);
+      const ws=getWeekSessions(sessions);
+      const scored=ws.filter(s=>s.score>0);
+      const avg=scored.length?Math.round(scored.reduce((a,s)=>a+s.score,0)/scored.length):0;
+      const summaryData='Calls: '+ws.length+', Score moyen: '+avg+'%, Modes: '+[...new Set(ws.map(s=>s.mode))].join(',');
+      try{
+        const prompt='Tu es Karim, coach commercial BP couvreurs. R\u00e9dige un bilan de semaine court (5-6 lignes max) pour '+currentUser.name+'. Donn\u00e9es: '+summaryData+'. Sois direct, cash, et donne 2 axes d\'am\u00e9lioration concrets.';
+        const report=await callAPI('',prompt,400);
+        const el=document.getElementById('reportContent');
+        if(el){el.classList.remove('hidden');el.querySelector('.report-text').innerHTML=report.replace(/\n/g,'<br>');}
+      }catch(e){console.error('Report error:',e);}
+      if(btn)btn.disabled=false;
+    }
+
+    // SESSIONS HELPER
+    let _sessionsCache=[];
+    async function loadSessionsCache(){
+      if(currentUser)_sessionsCache=await DB.getSessions(currentUser.id);
+      return _sessionsCache;
+    }
+    function getSessions(){return _sessionsCache;}
+
+    // INIT
 // ═══════════════════════════════════════════════════════
 window.addEventListener('DOMContentLoaded', async () => {
   // Load login screen stats
@@ -1664,7 +1722,8 @@ async function selectUser(slug){
   inp.addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendMessage();}});
   inp.addEventListener('input',autoResize);
   document.addEventListener('click',e=>{if(!e.target.closest('.obj-wrap'))closeObjPicker();});
-  await renderDashboard();
+  await loadSessionsCache();
+      await renderDashboard();
   updateErrorsBadge();
   renderReportStats();
 }
@@ -1711,7 +1770,7 @@ async function startCall(){
   const t=artisan[`temperament_${difficulty}`]||artisan.temperament_medium;
   const prompt=mode==='r1'
     ?`Tu viens de décrocher. Tempérament : ${t}. 1-2 phrases max.`
-    :`Tu rappelles Stéphanie pour le 2ème appel. Tempérament : ${t}. Accueil naturel, 2 phrases.`;
+    :`Tu rappelles ${currentUser?.name||'le commercial'} pour le 2ème appel. Tempérament : ${t}. Accueil naturel, 2 phrases.`;
   try{
     const res=await callAPI(buildArtisanPrompt(),prompt,200);
     convHistory.push({role:'assistant',content:res});
@@ -1798,7 +1857,7 @@ async function getArtisanResponse(){
 async function getCoachFeedback(userMsg){
   const stages=mode==='r1'?STAGES_R1:mode==='r2'?STAGES_R2:STAGES_R3;
   const stageLabel=stages[Math.min(currentStage,stages.length-1)]?.label||'?';
-  const caller=currentUser?.name||'Stéphanie';
+  const caller=currentUser?.name||'le commercial';
   const modeCtx={'r1':'R1 Discovery. Couvreur inbound — a booké après une pub.','r2':'R2 Closing. '+caller+' présente le plan BP 100% performance.','r3':'R3 Follow-up. '+caller+' rappelle un couvreur qui a dit "je réfléchis" au R2.'};
   const chainCtx=mode==='r2'&&chainState?.r1Summary?`\nContexte R1 : ${chainState.r1Summary.slice(0,300)}`:mode==='r3'&&chainState?.r2Summary?`\nContexte R2 : ${chainState.r2Summary.slice(0,300)}`:'';
   const prompt=`Tu es Karim, coach BP couvreurs. ${modeCtx[mode]||''}${chainCtx}
@@ -1816,7 +1875,7 @@ RÈGLE : 12% HT par chantier signé, zéro setup, zéro retainer. Toute déviati
 }
 function buildArtisanPrompt(){
   const p=artisan,t=p[`temperament_${difficulty}`]||p.temperament_medium;
-  const caller=currentUser?.name||'Stéphanie';
+  const caller=currentUser?.name||'le commercial';
   const r1ctx=mode==='r1'?`\nR1 : Tu as vu une pub "plus de chantiers sans listes partagées", tu as booké ce call.`:'';
   const r2ctx=mode==='r2'?`\nR2 : ${caller} a préparé un plan. Douleurs R1 : ${p.r1_douleurs}. Modèle : 12% HT par chantier signé, zéro setup.${chainState?.r1Summary?'\nContexte R1 : '+chainState.r1Summary.slice(0,300):''}`:'' ;
   const r3ctx=mode==='r3'?`\nR3 : ${caller} te rappelle. Tu as dit "je réfléchis" au R2. Tu n'as pas encore signé. Reste non-engagé, soulève un blocage réel.${chainState?.r2Summary?'\nContexte R2 : '+chainState.r2Summary.slice(0,300):''}`:'' ;
@@ -1835,7 +1894,7 @@ function showChainBar(next){
 }
 async function continueChain(next){
   if(!chainState)return;
-  const convText=convHistory.filter(m=>m.role!=='system').map(m=>`${m.role==='user'?currentUser?.name||'Stéphanie':'Couvreur'}: ${m.content}`).join('\n').slice(-1000);
+  const convText=convHistory.filter(m=>m.role!=='system').map(m=>`${m.role==='user'?currentUser?.name||'le commercial':'Couvreur'}: ${m.content}`).join('\n').slice(-1000);
   if(mode==='r1'){chainState.r1Summary=convText;chainState.r1Score=callScore;}
   if(mode==='r2'){chainState.r2Summary=convText;chainState.r2Score=callScore;}
   document.getElementById('chainActionBar').classList.remove('show');
@@ -1867,14 +1926,17 @@ function closeFatal(){document.getElementById('fatalModal').classList.add('hidde
 // ═══════════════════════════════════════════════════════
 function showDebrief(){
   if(callScore===0)return;
-  const passed=callScore>=SCORE_THRESHOLD;
+    const activeDay=PROGRAM_DAYS.find(p=>p.mode===mode&&p.diff===difficulty)||PROGRAM_DAYS[0];
+    const threshold=activeDay.threshold||SCORE_THRESHOLD;
+    const passed=callScore>=threshold;
+  const passed=passed;
   document.getElementById('debriefScore').textContent=callScore+'%';
   // Color debrief header per mode
   const hdr=document.getElementById('debriefHeader');
   if(hdr)hdr.style.background=mode==='r1'?'linear-gradient(135deg,#6E3FF3,#EC4899)':mode==='r2'?'linear-gradient(135deg,#0EA5E9,#10B981)':'linear-gradient(135deg,#F97316,#F59E0B)';
   // Threshold msg
   const tmsg=document.getElementById('debriefThresholdMsg');
-  if(tmsg){tmsg.textContent=passed?`✓ Seuil ${SCORE_THRESHOLD}% atteint`:`✗ ${SCORE_THRESHOLD}% requis — recommence ce niveau`;tmsg.style.color=passed?'rgba(255,255,255,.8)':'rgba(255,160,160,.9)';}
+  if(tmsg){tmsg.textContent=passed?`✓ Seuil ${threshold}% atteint`:`✗ ${threshold}% requis — recommence ce niveau`;tmsg.style.color=passed?'rgba(255,255,255,.8)':'rgba(255,160,160,.9)';}
   const dimLabels={ecoute:'Écoute',questions:'Questions',erreurs:'Erreurs évitées',posture:'Posture CEO'};
   document.getElementById('debriefDims').innerHTML=Object.entries(dims).map(([k,v])=>{
     const c=v>=70?'var(--green)':v>=45?'var(--yellow)':'var(--red)';
@@ -1897,7 +1959,7 @@ function showDebrief(){
   }
   // Threshold block
   const tb=document.getElementById('debriefThresholdBlock');
-  if(tb) tb.innerHTML=!passed?`<div class="threshold-block"><div class="threshold-block-title">Score insuffisant</div><div class="threshold-block-text">Atteins ${SCORE_THRESHOLD}% pour débloquer l'étape suivante.</div></div>`:'';
+  if(tb) tb.innerHTML=!passed?`<div class="threshold-block"><div class="threshold-block-title">Score insuffisant</div><div class="threshold-block-text">Atteins ${threshold}% pour débloquer l'étape suivante.</div></div>`:'';
   document.getElementById('debriefModal').classList.remove('hidden');
 }
 function closeDebrief(){document.getElementById('debriefModal').classList.add('hidden');}
@@ -1921,7 +1983,7 @@ async function showRecap(){
   document.getElementById('recapModal').classList.remove('hidden');
   document.getElementById('recapBody').innerHTML='<div style="text-align:center;padding:40px"><div class="spinner" style="margin:0 auto 12px"></div><div style="font-size:12px;color:var(--text3)">Analyse IA en cours...</div></div>';
   document.getElementById('recapScores').innerHTML='';
-  const convText=convHistory.map(m=>`${m.role==='user'?'Stéphanie':'Couvreur'}: ${m.content}`).join('\n');
+  const convText=convHistory.map(m=>`${m.role==='user'?(currentUser?.name||'le commercial')':'Couvreur'}: ${m.content}`).join('\n');
   const prompt=`Tu es Karim. Analyse ce call (${mode==='r1'?'R1 Discovery':'R2 Closing'}) avec ${artisan.prenom} ${artisan.nom}.
 CONVERSATION :\n${convText.slice(-3000)}
 Score global : ${callScore}%
@@ -2272,7 +2334,7 @@ function renderMarathonQuestion(){
       <div class="marathon-input-area">
         <textarea class="marathon-input" id="marathonInput" placeholder="Ta réponse à cette objection..." rows="3"></textarea>
         <div class="marathon-input-footer">
-          <div class="marathon-hint">Réponds comme si tu étais Stéphanie en call.</div>
+          <div class="marathon-hint">Réponds comme si tu étais ${currentUser?.name||'le commercial'} en call.</div>
           <button class="btn-marathon" id="marathonSubmitBtn" onclick="submitMarathonAnswer()">
             Valider ma réponse
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
@@ -2288,7 +2350,7 @@ async function submitMarathonAnswer(){
   const obj=marathonObjs[marathonIdx];
   const prompt=`Tu es Karim, coach BP couvreurs. Une stagiaire commerciale répond à une objection couvreur.
 Objection : "${obj}"
-Réponse Stéphanie : "${answer}"
+Réponse ${currentUser?.name||'le commercial'} : "${answer}"
 Modèle agence : 12% HT par chantier signé, zéro setup, zéro retainer.
 JSON STRICT : {"score":<0-100>,"feedback":"1-2 phrases cash sur sa réponse","idealResponse":"la réponse idéale en 1-2 phrases"}`;
   try{
