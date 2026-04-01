@@ -1929,7 +1929,7 @@ function showDebrief(){
     const activeDay=PROGRAM_DAYS.find(p=>p.mode===mode&&p.diff===difficulty)||PROGRAM_DAYS[0];
     const threshold=activeDay.threshold||SCORE_THRESHOLD;
     const passed=callScore>=threshold;
-  const passed=passed;
+  
   document.getElementById('debriefScore').textContent=callScore+'%';
   // Color debrief header per mode
   const hdr=document.getElementById('debriefHeader');
