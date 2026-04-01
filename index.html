@@ -1983,7 +1983,7 @@ async function showRecap(){
   document.getElementById('recapModal').classList.remove('hidden');
   document.getElementById('recapBody').innerHTML='<div style="text-align:center;padding:40px"><div class="spinner" style="margin:0 auto 12px"></div><div style="font-size:12px;color:var(--text3)">Analyse IA en cours...</div></div>';
   document.getElementById('recapScores').innerHTML='';
-  const convText=convHistory.map(m=>`${m.role==='user'?(currentUser?.name||'le commercial')':'Couvreur'}: ${m.content}`).join('\n');
+  const convText=convHistory.map(m=>`${m.role==='user'?(currentUser?.name||'le commercial'):'Couvreur'}: ${m.content}`).join('\n');
   const prompt=`Tu es Karim. Analyse ce call (${mode==='r1'?'R1 Discovery':'R2 Closing'}) avec ${artisan.prenom} ${artisan.nom}.
 CONVERSATION :\n${convText.slice(-3000)}
 Score global : ${callScore}%
