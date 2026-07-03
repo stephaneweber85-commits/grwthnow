@@ -12,6 +12,17 @@
 
 **Pourquoi GO** : white space contractuel réel (19 fiches : zéro hybride sur résultat — §7.2), demande de résultat documentée (pivot TheBBoost — §3.3), défiance qui rend l'inversion du risque monétisable (close rate ~2× — §6.4), SOM atteignable avec 12-20 clients (§2.4). **Pourquoi CONDITIONNEL** : unit economics inférieures au cash par client (16,8 vs 25 K€), dépendance au mix de réussite et à la collecte, creux de trésorerie, exécution plus exigeante que le modèle qu'il remplace, et un plafond naturel (~1-2 M€/an) qui impose à terme une évolution du mix prix (part fixe croissante — trajectoire Hollaender, §4.8).
 
+**La direction, acteur par acteur (le playbook).** L'étude ne recommande pas d'inventer un métier : elle recommande d'entrer sur le terrain de Michaud, Ndiaye, Clouet et Cherifi — l'accompagnement d'entrepreneurs établis vers 30-50 K€/mois — en assemblant ce qui est démontré chez chacun et en inversant la seule pièce qu'aucun ne peut copier :
+
+| Brique | Source d'inspiration | Ce qu'on reprend | Ce qu'on inverse |
+|---|---|---|---|
+| Métier & cible | Scaling Circle, Clouet, Nezzar | Le filtre « fait déjà 5-15 K€/mois » (tout le haut du marché a convergé dessus) | Le filtre devient public et contractuel |
+| Structure d'offre | Ndiaye (ULTRA), Rigottier | L'écosystème à étages : entrée → accompagnement 12 mois → renouvellement (la meilleure machine à LTV du panel, la seule adossée à des comptes en croissance) | Porte d'entrée à 5 K€ au lieu de 15-45 K€/an de fixe |
+| Pricing | Cherifi (donnée 1re main) | L'hybride setup + mensuel + % : il se vend, cher | Structure retournée : fixe minimal, majorité indexée, plafond, sortie M4 |
+| Acquisition | Clouet, Ndiaye, Scalezia | 100 % organique + funnel léger | Sur LinkedIn/podcasts (habitat du persona 2) ; surtout PAS le tout-ads de Michaud (capital-intensif, organique quasi nul — sa pièce la plus faible) |
+| Preuve | Contre-pied du panel entier | — | Entité FR à comptes publics, prix affiché, études de cas nommées : le seul actif qui ne s'achète pas |
+| Trajectoire | La réalité vérifiée du panel | 30-150 K€/mois à maturité (les chiffres RÉELS du métier, pas le marketing) | Montée du fixe avec la preuve (trajectoire validée par le précédent Webinaire Agency, §4.8) |
+
 **No-go explicites** : ne PAS viser les débutants (<5 K€/mois — baseline insuffisante, vivier de litiges) ; ne PAS lancer en 100 % performance (sélection adverse + cash-flow) ; ne PAS copier le funnel Reels+setter+prix caché (incohérence positionnelle fatale) ; ne PAS annoncer de chiffres personnels invérifiables (le marché est sous surveillance — §5.4).
 
 ## 10.2 Roadmap 12 mois

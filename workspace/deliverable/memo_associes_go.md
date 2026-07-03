@@ -66,7 +66,22 @@ Accompagnement done-with-you de 12 mois : refonte d'offre et de pricing (le levi
 
 Et la page de vente empile six engagements qu'aucun concurrent ne peut afficher : prix public, contrat relisible par avocat avant signature, comptes de notre société publics, bonus plafonné, sortie à M4, sélectivité assumée.
 
-## 6. Le plan d'exécution 12 mois
+## 6. La direction, concrètement : on fait le MÊME métier qu'eux — avec le contrat qu'ils n'osent pas signer
+
+La question que la table posera : « on va où, exactement ? ». Réponse : **sur le terrain de Michaud, Ndiaye, Clouet et Cherifi — le métier d'accompagner des entrepreneurs établis vers 30-50 K€/mois — en reprenant ce qui marche chez chacun et en inversant le seul élément qu'aucun ne peut copier : le modèle de rémunération.** L'étude a décortiqué leurs machines pièce par pièce ; voici le montage retenu :
+
+| Brique | On reprend de… | Quoi exactement | Notre inversion |
+|---|---|---|---|
+| **Le métier & la cible** | Michaud (Scaling Circle), Clouet, Nezzar | Accompagner des coachs/consultants/infopreneurs qui font DÉJÀ 5-15 K€/mois — tout le haut du marché a convergé sur ce filtre (« déjà 10 K/mois » chez Michaud, « +10 K » chez Nezzar, 15 K chez Ndiaye) : c'est le bon client, on le garde | On rend le filtre PUBLIC et contractuel : la sélectivité devient un argument de vente |
+| **La structure d'offre** | Ndiaye (ULTRA), Rigottier | L'écosystème à étages : porte d'entrée → accompagnement 12 mois → renouvellement/étage supérieur ; c'est la machine à LTV la plus solide du panel (la seule adossée à des comptes déposés en croissance) | Notre porte d'entrée est à 5 K€ au lieu de 15-45 K€/an de fixe — le client monte les étages parce qu'il gagne, pas parce qu'il a déjà payé |
+| **Le pricing** | Cherifi | L'hybride setup + mensualité + % de perf : il se vend, cher, on le sait de première main (nous le payons) | On retourne la structure : fixe minimal (5 K€), majorité indexée sur le cash encaissé, plafond, sortie M4 — l'inversion du risque qu'il ne peut pas offrir sans casser son modèle |
+| **L'acquisition** | Clouet, Ndiaye, Scalezia | 100 % organique + funnel léger (contenu → conversation → appel) : le seul modèle d'acquisition du panel qui soit à la fois rentable et compatible avec un positionnement de confiance | On le fait sur LinkedIn + podcasts (là où vit NOTRE cible), pas en Reels de masse ; et on n'imite PAS Michaud : son tout-YouTube-Ads est capital-intensif, fragile, et son organique est quasi nul — c'est la pièce la plus faible de sa machine, pas la plus forte |
+| **La preuve** | Contre-pied de tout le panel | Là où eux achètent leur crédibilité (publireportages documentés) ou l'auto-déclarent depuis Dubaï, nous : entité française à comptes publics, prix affiché, études de cas nommées contractualisées | C'est le fossé défensif — le seul actif du marché qui ne s'achète pas |
+| **La trajectoire de revenus** | La réalité vérifiée du panel (pas son marketing) | Les acteurs VÉRIFIABLES de ce métier font 30-150 K€/mois à maturité avec de vraies marges — c'est la référence honnête que nous visons | Année 1 : 100-300 K€ encaissés ; années 2-3 : 350-900 K€/an ; puis montée du fixe à mesure que la preuve s'accumule (la trajectoire validée par le précédent Webinaire Agency) |
+
+En une phrase pour la table : **même terrain de jeu, même client, même machine à étages que les référents du marché — mais avec le contrat en face du discours, et c'est précisément la pièce qu'aucun d'eux ne peut ajouter à sa machine sans la casser.**
+
+## 7. Le plan d'exécution 12 mois
 
 - **M0-M1 — Fondations** : SAS française à comptes non confidentiels (c'est un argument de vente, pas une contrainte), contrat-type relu par avocat, tableau de bord d'attribution, page de vente à prix public.
 - **M1-M3 — Preuve** : 3-5 clients fondateurs à 5 K€ + 10 % contre étude de cas nommée ; lancement du canal LinkedIn + long-form ; premiers podcasts en invité (angle imparable : « nous avons triangulé les vrais chiffres du marché »).
@@ -75,7 +90,7 @@ Et la page de vente empile six engagements qu'aucun concurrent ne peut afficher 
 - **Trésorerie** : 6 mois de charges devant nous (ou 3-4 ventes d'amorçage à fixe majoré) — le modèle encaisse plus lentement les 8 premiers mois, puis dépasse définitivement le modèle cash à M12. C'est un plan de financement, pas un risque : il est chiffré mois par mois en annexe.
 - **Années 2-3** : extension aux dirigeants structurés (panier 15-30 K€), part fixe croissante à mesure que la marque de preuve s'installe — trajectoire déjà validée par le seul précédent du marché (l'agence partie 100 % performance qui a remonté son fixe une fois la réputation faite).
 
-## 7. Ce que nous répondrons aux sceptiques (parce qu'ils poseront ces questions)
+## 8. Ce que nous répondrons aux sceptiques (parce qu'ils poseront ces questions)
 
 **« Si c'était si bon, les gros le feraient déjà. »** Non : leurs tunnels cash convertissent déjà avec un panier supérieur par client — passer à la performance leur coûterait de la marge et les forcerait à prouver leurs promesses. Le modèle est optimal précisément pour un ENTRANT : personne ne paie 25 K€ d'avance à un inconnu ; beaucoup risquent 5 K€ quand le vendeur partage le risque. C'est notre avantage structurel de nouvel entrant, pas un oubli du marché.
 
@@ -85,7 +100,7 @@ Et la page de vente empile six engagements qu'aucun concurrent ne peut afficher 
 
 **« Cherifi le fait déjà — pourquoi nous ? »** Oui, et nous sommes idéalement placés pour répondre : nous sommes son client. Sa structure (15 K€ + 2 500 €/mois + 10 %) est un hybride à dominante fixe : le client paie ~45 K€/an quoi qu'il arrive — plus cher que les offres cash du marché — et la perf s'ajoute par-dessus. C'est un excellent business pour lui ; ce n'est pas une inversion du risque pour le client. Notre offre attaque exactement ce flanc : 5 K€ d'entrée (9× moins de risque initial que ce que nous payons nous-mêmes), la majorité de notre rémunération indexée sur le cash réellement encaissé, le tout affiché publiquement quand son prix n'existe qu'en appel de vente. Et parce que nous vivons sa prestation de l'intérieur, nous savons précisément ce qui fait sa qualité — et ce qui reste à battre. Sa réussite ne nous barre pas la route : elle valide le prix, la demande et la niche, et nous laisse le seul angle qu'il ne peut pas prendre sans casser son propre modèle : le risque partagé, écrit, public.
 
-## 8. Ce que nous décidons aujourd'hui
+## 9. Ce que nous décidons aujourd'hui
 
 1. **GO** sur le lancement sous le modèle 5 K€ + 12,5 % (option 15 % baselines basses), cible « établis en plateau » 5-15 K€/mois.
 2. Validation du nom de l'offre (« Palier » proposé) et du budget d'amorçage (6 mois de charges + frais juridiques du contrat-type).
