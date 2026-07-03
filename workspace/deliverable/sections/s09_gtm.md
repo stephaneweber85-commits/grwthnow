@@ -4,7 +4,11 @@ Sources détaillées : [findings/ws9-gtm.md](../findings/ws9-gtm.md).
 
 ## 9.1 Réponse d'abord
 
-Le canal recommandé pour l'année 1 n'est PAS le funnel dominant du marché (Reels → setter DM → closing), qui est saturé, coûteux en équipe, et **incohérent avec un positionnement anti-bullshit**. C'est un GTM de preuve à trois étages : (1) **LinkedIn + long-form** (le canal où vit le persona 2 et où la crédibilité se construit), (2) **podcasts business FR en invité** (canal sous-coté à coût nul, forte qualification), (3) **outbound chirurgical ultra-personnalisé** vers 20-30 comptes/mois identifiés publiquement (pas de spray DM). Objectif année 1 : 15-25 appels qualifiés/mois, pour 12-20 signatures sur l'année — le modèle hybride convertissant ~2 fois mieux, ce volume modeste suffit (§6.4).
+Deux moteurs, deux configurations — et le commanditaire a les moyens de la seconde :
+- **Configuration organique** (entrant seul, sans budget) : GTM de preuve à trois étages — LinkedIn + long-form, podcasts en invité, outbound chirurgical (détaillé en 9.4). 15-25 appels/mois, 12-20 signatures/an. C'est le plancher sans risque capital.
+- **Configuration scale** (retenue par le commanditaire, §9.6) : moteur payant à **1 000 €/jour de vidéo** (YouTube, Google Ads, LinkedIn, Instagram) produisant 6-8 appels qualifiés/jour, adossé à une équipe de livraison dimensionnée pour **300 clients simultanés**. Le funnel modélisé : 23-58 signatures/mois (central 35), CAC ~870 €, LTV/CAC ~51× — l'acquisition n'est plus la contrainte, la capacité et la tenue du rendement client le deviennent.
+
+Dans les deux cas, la couche de preuve organique (9.4) reste OBLIGATOIRE : c'est elle qui fait convertir la pub. Une VSL à 1 K€/jour sans études de cas nommées ni transparence contractuelle reproduirait le funnel Michaud — la pièce la plus faible de sa machine (§4.1) — et brûlerait le budget contre la défiance documentée du marché (§3.4). **La pub amplifie la confiance, elle ne la remplace pas.**
 
 ## 9.2 Ce que font les acteurs (le funnel canonique et ses variantes)
 
@@ -46,3 +50,26 @@ Canal sous-coté à coût nul (findings WS9) : les podcasts business FR de milie
 - M1-M3 : 40-60 conversations qualifiées, 6-10 appels/mois → 3-5 premiers clients (dont 2-3 en « tarif fondateur » : 5 K€ + 10 % contre étude de cas nommée).
 - M4-M12 : 15-25 appels qualifiés/mois, close 25-30 % → 12-20 clients signés au total, 100-300 K€ encaissés (SOM, §2.4).
 - Jauges d'alerte : close rate <15 % sur 20 appels → problème d'offre ou de qualification, pas de volume ; >50 % de candidats refusés = normal et souhaitable ; si le pipeline dépasse la capacité (10-12 actifs), monter la part fixe (7,5-10 K€) plutôt que recruter précipitamment — le pricing est la soupape de capacité.
+
+## 9.6 Configuration scale : le moteur payant à 1 K€/jour (paramètres du commanditaire)
+
+Modélisation complète et reproductible : [findings/ws-scale-model.md](../findings/ws-scale-model.md) ([models/scale_model.py](../models/scale_model.py)). Paramètres d'entrée fournis par le commanditaire : 1 000 €/jour de publicité vidéo multi-plateformes (YouTube, Google Ads, LinkedIn, Instagram), objectif 6-8 appels qualifiés bookés/jour, capacité d'équipe à terme 300 clients simultanés, rendement client 44 K€ HT/an (donnée interne, étude séparée du commanditaire — hypothèse structurante à re-valider en vente réelle).
+
+**Le funnel mensuel modélisé** (30 417 €/mois de pub) :
+
+| Scénario | Appels bookés/mois | Coût/appel | Tenus (show-up 70-85 %) | Signatures (close 18-28 %) | CAC |
+|---|---|---|---|---|---|
+| Bas | 182 | 167 € | 128 | **23** | 1 323 € |
+| Central | 213 | 143 € | 160 | **35** | 866 € |
+| Haut | 243 | 125 € | 207 | **58** | 525 € |
+
+Cohérence benchmark : le coût/appel implicite (125-167 €) est dans le haut de la fourchette observée sur la niche (40-150 €/appel, §9.3) — l'objectif 6-8 appels/jour est atteignable mais exige des créas vidéo performantes ; en cas de dérive à 250 €/appel, le volume tombe à ~4/jour → budgéter 2-3 mois d'itération créative avant le régime de croisière.
+
+**Les cinq conclusions structurantes du scénario scale** :
+1. **LTV/CAC ≈ 51× (central)** : à 44 K€/client/an pour ~870 € de CAC, l'acquisition cesse d'être la contrainte du business — même dégradé (CAC 2 000 €, rendement 35 K€), le ratio reste à 17×.
+2. **Le funnel SUR-remplit la capacité** : régime permanent soutenable = 300 ÷ 12 mois = 25 signatures/mois ; le funnel central en produit 35. Trois soupapes dans l'ordre : monter la part fixe, durcir la qualification (ce qui améliore le mix de réussite, paramètre n°1 du modèle §6.5), puis étendre l'équipe.
+3. **Le pont tarifaire vers 44 K€/an impose une composante mensuelle** : le 5 K€ + 12,5 % pur produit 16,8 K€ d'EV blended (§6.3). Le mix « **Palier Scale** » — 5 K€ d'entrée + 1 995 €/mois + 10 % perf — atteint ~34-40 K€ sur le client moyen et >50 K€ sur les forts (blended ≈ 38-46 K€), cohérent avec la donnée interne, tout en préservant le différenciateur : entrée 3× sous le standard du marché (donnée 1re main : 15 K€ + 2,5 K€/mois + 10 %), sortie M4, plafond. Détail en §8.4bis.
+4. **Trajectoire** : ramp prudent (recrutement progressif) → 210 clients actifs fin M12, ~4,0 M€ de CA an 1 ; ramp volontariste (équipe prête) → 300 actifs fin M12, ~6,5 M€ an 1 ; **pleine capacité = 13,2 M€/an**, saturation entre M13 et M26 selon le ramp.
+5. **Perspective marché à assumer devant des associés** : 13,2 M€ ≈ 40-50 % du SAM central de l'offre hybride (25-35 M€/an) et ferait de l'agence le n°1 francophone du segment (plus gros acteur vérifié du panel : ~10-19 M€/an, Entrepreneurs.com). La pleine capacité est un objectif d'année 3-5 qui suppose de prendre le leadership du segment — pas une extrapolation d'année 1.
+
+**P&L indicatif à pleine capacité** (hypothèses affichées, à challenger) : pub 365 K€ (2,8 % du CA), commissions de vente 10 %, livraison 20 coachs/CSM à 15 clients/tête (1,4 M€), ops/outils/studio 500 K€, management 800 K€ → **EBITDA indicatif ~67 %**. Sensibilité : la marge tient tant que le rendement client reste ≥ 40 K€ ET le ratio de livraison ≥ 12-15 clients/tête (à 10 clients/tête et 35 K€/client : 54 %). **Garde-fou marché** : les acteurs FR vérifiables à l'échelle affichent 6-9 % de marge nette (Squared, Coudac) et le modèle volume+équipe le plus proche (Scalezia) déposait des pertes — la discipline de coûts est le risque d'exécution n°1 du scale, loin devant l'acquisition ; le pilotage mensuel du ratio clients/tête et du rendement réel est non négociable.

@@ -35,7 +35,9 @@
 
 **M7-M12 — Montée en charge.** 12-20 clients signés cumulés ; 2-3 études de cas nommées publiées avec chiffres vérifiables ; portefeuille plafonné à 10-12 actifs — au-delà, montée du fixe (7,5-10 K€) plutôt que recrutement précipité (le pricing comme soupape, §9.5). Objectif encaissé année 1 : **100-300 K€**.
 
-**Année 2-3 (esquisse).** Constitution d'un délivery léger (1-2 personnes) ; extension au persona 3 (dirigeants structurés, panier 15-30 K€) avec les études de cas comme droit d'entrée ; part fixe croissante à mesure que la marque de preuve s'installe ; 350-900 K€/an (SOM §2.4).
+**Année 2-3 (esquisse, configuration organique).** Constitution d'un délivery léger (1-2 personnes) ; extension au persona 3 (dirigeants structurés, panier 15-30 K€) avec les études de cas comme droit d'entrée ; part fixe croissante à mesure que la marque de preuve s'installe ; 350-900 K€/an (SOM §2.4).
+
+**Variante scale (configuration retenue par le commanditaire — chiffrage complet §9.6).** La même séquence M0-M6 reste OBLIGATOIRE (fondations contractuelles + 3-5 clients fondateurs + jauges de validation) : on ne branche pas 1 K€/jour de pub sur une offre non validée en vente réelle. Ensuite : M4-M6 = montée progressive du budget (250 → 1 000 €/jour) avec itération créative vidéo, bascule au mix « Palier Scale » (5 K€ + 1 995 €/mois + 10 %) ; M6-M12 = recrutement de la livraison PAR PALIERS indexés sur le ratio clients/tête (embauche quand le ratio atteint 15:1, jamais en anticipation de plus d'un mois) ; objectif fin M12 : 210 clients actifs (ramp prudent) à 300 (volontariste), 4,0-6,5 M€ de CA an 1 ; saturation des 300 entre M13 et M26 → 13,2 M€/an. Les trois soupapes anti-surchauffe, dans l'ordre : hausse de la part fixe, durcissement de la qualification, extension d'équipe.
 
 ## 10.3 Risques et mitigations
 
@@ -59,6 +61,7 @@
 ## 10.5 KPIs de suivi (tableau de bord mensuel)
 
 - **Funnel** : conversations qualifiées ; appels tenus (show-up ≥70 %) ; close rate (cible 25-30 % ; alerte <15 % sur 20 appels) ; taux de refus de candidats (sain : ≥50 %).
+- **Moteur payant (configuration scale)** : coût/appel booké (cible ≤170 €, alerte >250 €) ; CAC (cible ≤1 200 €, alerte >2 000 €) ; signatures/mois vs capacité soutenable (25/mois à 300 actifs) ; rendement réel/client vs 44 K€ cible ; ratio clients/tête de livraison (plancher 12:1) ; part du CA en pub (cible ≤4 %).
 - **Portefeuille** : clients actifs (plafond 10-12) ; répartition échec/moyen/fort vs mix central 30/45/25 (l'écart à ce mix est LE leading indicator du modèle) ; % de clients au-dessus de baseline à M3.
 - **Économie** : cash encaissé (fixe vs perf) ; taux de collecte perf (cible ≥85 % ; alerte <75 %, §6.5-T3) ; EV réalisée/client vs 16,8 K€ modélisé ; mois de trésorerie devant soi.
 - **Marque de preuve** : études de cas nommées publiées ; passages podcast ; part d'inbound dans les conversations (cible : >50 % à M12).

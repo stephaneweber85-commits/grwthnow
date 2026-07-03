@@ -37,6 +37,8 @@ Preuve chiffrée côté client (modèle T8, §6.6) : en cas d'échec, il perd 5,
 - **Clause de sortie à M4** : si le client juge le travail insuffisant, il sort ; la perf reste due 90 jours sur le pipeline construit (fenêtre d'attribution, §6.7). Personne d'autre sur le marché n'offre de sortie à M4 (§4 : « aucun remboursement » est la norme — Squared, Entrepreneurs.com, Piccinini) ;
 - Option baseline basse (5-8 K€/mois) : 15 % au lieu de 12,5 % — aligne le taux sur le risque (§6.3).
 
+**Variante « Palier Scale » (configuration équipe + acquisition payante, §9.6).** Quand le rendement cible par client est de 44 K€ HT/an (donnée interne du commanditaire), le mix évolue : **5 000 € d'entrée + 1 995 €/mois (12 mois) + 10 % du cash incrémental encaissé**, plafond et sortie M4 maintenus. Fixe année 1 ≈ 28,9 K€ + perf ≈ 5-21 K€ selon l'archétype → blended ≈ 38-46 K€/an, cohérent avec la cible. L'inversion du risque relative reste entière face au standard du marché (donnée 1re main : 15 K€ + 2 500 €/mois + 10 %) : entrée 3× inférieure, mensualité moindre, sortie contractuelle, plafond — aucun acteur n'offre cette combinaison. Le close rate attendu se tasse légèrement vs le 5 K€ + 12,5 % pur (engagement mensuel visible) : 18-28 % retenus dans le funnel scale au lieu de 20-38 %.
+
 **Le nom.** « Palier » (nom de travail) : dit le problème (le plateau) et la promesse (le franchir) sans emprunter les codes discrédités (« scaling », « 7 figures »). Alternatives testables en marché : « Incrément » (dit la base de calcul — pédagogique), « Contrepartie » (dit le modèle). Décision à prendre en test de vente, pas sur le papier.
 
 ## 8.5 Le value stack, version anti-marché

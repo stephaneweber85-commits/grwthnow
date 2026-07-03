@@ -24,7 +24,7 @@
 
 ## 1.1 La recommandation en une page
 
-**VERDICT : GO CONDITIONNEL.** Lancer l'activité de partenaire de croissance en facturation hybride — 5 000 € d'entrée + 12,5 % du cash incrémental encaissé (15 % sur les baselines basses) — sur le profil « établi en plateau » : coach business, consultant ou infopreneur francophone faisant déjà 5-15 K€/mois. Trois conditions non négociables : (1) barre de qualification écrite (baseline ≥ 5 K€/mois, offre validée, accès tracking accepté), (2) mécanique d'attribution contractualisée avant la première signature (baseline contractuelle, Stripe lecture seule, % sur cash encaissé net, fenêtre 90 jours, plafond 45 K€, sortie possible à M4), (3) six mois de trésorerie devant soi. Objectif année 1 : 12-20 clients, 100-300 K€ encaissés ; années 2-3 : 350-900 K€/an.
+**VERDICT : GO CONDITIONNEL.** Lancer l'activité de partenaire de croissance en facturation hybride — 5 000 € d'entrée + 12,5 % du cash incrémental encaissé (15 % sur les baselines basses) — sur le profil « établi en plateau » : coach business, consultant ou infopreneur francophone faisant déjà 5-15 K€/mois. Trois conditions non négociables : (1) barre de qualification écrite (baseline ≥ 5 K€/mois, offre validée, accès tracking accepté), (2) mécanique d'attribution contractualisée avant la première signature (baseline contractuelle, Stripe lecture seule, % sur cash encaissé net, fenêtre 90 jours, plafond 45 K€, sortie possible à M4), (3) six mois de trésorerie devant soi. Deux configurations de lancement sont chiffrées : en **configuration organique** (opérateur seul, sans budget), 12-20 clients et 100-300 K€ encaissés en année 1 ; en **configuration scale** — celle retenue par le commanditaire : 1 000 €/jour de publicité vidéo (YouTube, Google Ads, LinkedIn, Instagram), 6-8 appels qualifiés/jour, équipe de livraison dimensionnée pour 300 clients simultanés — le funnel modélisé produit 23-58 signatures/mois (central 35) pour un CAC de ~870 €, soit **90-147 clients actifs moyens et 4,0-6,5 M€ de CA en année 1**, et 13,2 M€/an à pleine capacité sur la base d'un rendement client de 44 K€ HT/an (donnée interne du commanditaire — §9.6 et annexe scale).
 
 **Le positionnement** : « le partenaire de croissance qui ne gagne que si vous gagnez » — skin in the game contractuel, transparence radicale (SAS française à comptes publics, prix affiché publiquement), sélectivité assumée. Chaque pilier prend le contre-pied d'un red flag documenté du marché : c'est un positionnement que les incumbents ne peuvent pas copier sans se renier.
 
@@ -105,6 +105,7 @@ Les deux chemins convergent vers un high-ticket francophone de l'ordre de **100-
 - Année 1 : 12-20 clients signés × (5 K€ + perf moyenne 5-12 K€ encaissée avec décalage) → **100-300 K€ encaissés**.
 - Années 2-3 : 20-35 clients actifs cumulés + queue de perf des cohortes précédentes → **350-900 K€/an**.
 - Soit ~1-2 % du SAM central : ambitieux mais pas hors distribution (Squared fait ~0,7-1,6 M€/an avec 3-5 salariés, cf. §4.11).
+- **Configuration scale du commanditaire** (1 K€/jour de pub, équipe 300 clients, rendement 44 K€ HT/an — §9.6) : 4,0-6,5 M€ en année 1 selon le ramp, 13,2 M€/an à pleine capacité — soit 40-50 % du SAM central : un objectif de **leadership de segment** (année 3-5), qui suppose que le SAM se réalise en haut de fourchette ou s'élargisse (montée du panier vers le persona 3, extension géographique) ; à afficher comme ambition jalonnée, pas comme extrapolation.
 
 ## 2.5 Dynamique et tendances (2024-2026)
 
@@ -510,6 +511,8 @@ Preuve chiffrée côté client (modèle T8, §6.6) : en cas d'échec, il perd 5,
 - **Clause de sortie à M4** : si le client juge le travail insuffisant, il sort ; la perf reste due 90 jours sur le pipeline construit (fenêtre d'attribution, §6.7). Personne d'autre sur le marché n'offre de sortie à M4 (§4 : « aucun remboursement » est la norme — Squared, Entrepreneurs.com, Piccinini) ;
 - Option baseline basse (5-8 K€/mois) : 15 % au lieu de 12,5 % — aligne le taux sur le risque (§6.3).
 
+**Variante « Palier Scale » (configuration équipe + acquisition payante, §9.6).** Quand le rendement cible par client est de 44 K€ HT/an (donnée interne du commanditaire), le mix évolue : **5 000 € d'entrée + 1 995 €/mois (12 mois) + 10 % du cash incrémental encaissé**, plafond et sortie M4 maintenus. Fixe année 1 ≈ 28,9 K€ + perf ≈ 5-21 K€ selon l'archétype → blended ≈ 38-46 K€/an, cohérent avec la cible. L'inversion du risque relative reste entière face au standard du marché (donnée 1re main : 15 K€ + 2 500 €/mois + 10 %) : entrée 3× inférieure, mensualité moindre, sortie contractuelle, plafond — aucun acteur n'offre cette combinaison. Le close rate attendu se tasse légèrement vs le 5 K€ + 12,5 % pur (engagement mensuel visible) : 18-28 % retenus dans le funnel scale au lieu de 20-38 %.
+
 **Le nom.** « Palier » (nom de travail) : dit le problème (le plateau) et la promesse (le franchir) sans emprunter les codes discrédités (« scaling », « 7 figures »). Alternatives testables en marché : « Incrément » (dit la base de calcul — pédagogique), « Contrepartie » (dit le modèle). Décision à prendre en test de vente, pas sur le papier.
 
 ## 8.5 Le value stack, version anti-marché
@@ -544,7 +547,11 @@ Sources détaillées : [findings/ws9-gtm.md](../findings/ws9-gtm.md).
 
 ## 9.1 Réponse d'abord
 
-Le canal recommandé pour l'année 1 n'est PAS le funnel dominant du marché (Reels → setter DM → closing), qui est saturé, coûteux en équipe, et **incohérent avec un positionnement anti-bullshit**. C'est un GTM de preuve à trois étages : (1) **LinkedIn + long-form** (le canal où vit le persona 2 et où la crédibilité se construit), (2) **podcasts business FR en invité** (canal sous-coté à coût nul, forte qualification), (3) **outbound chirurgical ultra-personnalisé** vers 20-30 comptes/mois identifiés publiquement (pas de spray DM). Objectif année 1 : 15-25 appels qualifiés/mois, pour 12-20 signatures sur l'année — le modèle hybride convertissant ~2 fois mieux, ce volume modeste suffit (§6.4).
+Deux moteurs, deux configurations — et le commanditaire a les moyens de la seconde :
+- **Configuration organique** (entrant seul, sans budget) : GTM de preuve à trois étages — LinkedIn + long-form, podcasts en invité, outbound chirurgical (détaillé en 9.4). 15-25 appels/mois, 12-20 signatures/an. C'est le plancher sans risque capital.
+- **Configuration scale** (retenue par le commanditaire, §9.6) : moteur payant à **1 000 €/jour de vidéo** (YouTube, Google Ads, LinkedIn, Instagram) produisant 6-8 appels qualifiés/jour, adossé à une équipe de livraison dimensionnée pour **300 clients simultanés**. Le funnel modélisé : 23-58 signatures/mois (central 35), CAC ~870 €, LTV/CAC ~51× — l'acquisition n'est plus la contrainte, la capacité et la tenue du rendement client le deviennent.
+
+Dans les deux cas, la couche de preuve organique (9.4) reste OBLIGATOIRE : c'est elle qui fait convertir la pub. Une VSL à 1 K€/jour sans études de cas nommées ni transparence contractuelle reproduirait le funnel Michaud — la pièce la plus faible de sa machine (§4.1) — et brûlerait le budget contre la défiance documentée du marché (§3.4). **La pub amplifie la confiance, elle ne la remplace pas.**
 
 ## 9.2 Ce que font les acteurs (le funnel canonique et ses variantes)
 
@@ -587,6 +594,29 @@ Canal sous-coté à coût nul (findings WS9) : les podcasts business FR de milie
 - M4-M12 : 15-25 appels qualifiés/mois, close 25-30 % → 12-20 clients signés au total, 100-300 K€ encaissés (SOM, §2.4).
 - Jauges d'alerte : close rate <15 % sur 20 appels → problème d'offre ou de qualification, pas de volume ; >50 % de candidats refusés = normal et souhaitable ; si le pipeline dépasse la capacité (10-12 actifs), monter la part fixe (7,5-10 K€) plutôt que recruter précipitamment — le pricing est la soupape de capacité.
 
+## 9.6 Configuration scale : le moteur payant à 1 K€/jour (paramètres du commanditaire)
+
+Modélisation complète et reproductible : [findings/ws-scale-model.md](../findings/ws-scale-model.md) ([models/scale_model.py](../models/scale_model.py)). Paramètres d'entrée fournis par le commanditaire : 1 000 €/jour de publicité vidéo multi-plateformes (YouTube, Google Ads, LinkedIn, Instagram), objectif 6-8 appels qualifiés bookés/jour, capacité d'équipe à terme 300 clients simultanés, rendement client 44 K€ HT/an (donnée interne, étude séparée du commanditaire — hypothèse structurante à re-valider en vente réelle).
+
+**Le funnel mensuel modélisé** (30 417 €/mois de pub) :
+
+| Scénario | Appels bookés/mois | Coût/appel | Tenus (show-up 70-85 %) | Signatures (close 18-28 %) | CAC |
+|---|---|---|---|---|---|
+| Bas | 182 | 167 € | 128 | **23** | 1 323 € |
+| Central | 213 | 143 € | 160 | **35** | 866 € |
+| Haut | 243 | 125 € | 207 | **58** | 525 € |
+
+Cohérence benchmark : le coût/appel implicite (125-167 €) est dans le haut de la fourchette observée sur la niche (40-150 €/appel, §9.3) — l'objectif 6-8 appels/jour est atteignable mais exige des créas vidéo performantes ; en cas de dérive à 250 €/appel, le volume tombe à ~4/jour → budgéter 2-3 mois d'itération créative avant le régime de croisière.
+
+**Les cinq conclusions structurantes du scénario scale** :
+1. **LTV/CAC ≈ 51× (central)** : à 44 K€/client/an pour ~870 € de CAC, l'acquisition cesse d'être la contrainte du business — même dégradé (CAC 2 000 €, rendement 35 K€), le ratio reste à 17×.
+2. **Le funnel SUR-remplit la capacité** : régime permanent soutenable = 300 ÷ 12 mois = 25 signatures/mois ; le funnel central en produit 35. Trois soupapes dans l'ordre : monter la part fixe, durcir la qualification (ce qui améliore le mix de réussite, paramètre n°1 du modèle §6.5), puis étendre l'équipe.
+3. **Le pont tarifaire vers 44 K€/an impose une composante mensuelle** : le 5 K€ + 12,5 % pur produit 16,8 K€ d'EV blended (§6.3). Le mix « **Palier Scale** » — 5 K€ d'entrée + 1 995 €/mois + 10 % perf — atteint ~34-40 K€ sur le client moyen et >50 K€ sur les forts (blended ≈ 38-46 K€), cohérent avec la donnée interne, tout en préservant le différenciateur : entrée 3× sous le standard du marché (donnée 1re main : 15 K€ + 2,5 K€/mois + 10 %), sortie M4, plafond. Détail en §8.4bis.
+4. **Trajectoire** : ramp prudent (recrutement progressif) → 210 clients actifs fin M12, ~4,0 M€ de CA an 1 ; ramp volontariste (équipe prête) → 300 actifs fin M12, ~6,5 M€ an 1 ; **pleine capacité = 13,2 M€/an**, saturation entre M13 et M26 selon le ramp.
+5. **Perspective marché à assumer devant des associés** : 13,2 M€ ≈ 40-50 % du SAM central de l'offre hybride (25-35 M€/an) et ferait de l'agence le n°1 francophone du segment (plus gros acteur vérifié du panel : ~10-19 M€/an, Entrepreneurs.com). La pleine capacité est un objectif d'année 3-5 qui suppose de prendre le leadership du segment — pas une extrapolation d'année 1.
+
+**P&L indicatif à pleine capacité** (hypothèses affichées, à challenger) : pub 365 K€ (2,8 % du CA), commissions de vente 10 %, livraison 20 coachs/CSM à 15 clients/tête (1,4 M€), ops/outils/studio 500 K€, management 800 K€ → **EBITDA indicatif ~67 %**. Sensibilité : la marge tient tant que le rendement client reste ≥ 40 K€ ET le ratio de livraison ≥ 12-15 clients/tête (à 10 clients/tête et 35 K€/client : 54 %). **Garde-fou marché** : les acteurs FR vérifiables à l'échelle affichent 6-9 % de marge nette (Squared, Coudac) et le modèle volume+équipe le plus proche (Scalezia) déposait des pertes — la discipline de coûts est le risque d'exécution n°1 du scale, loin devant l'acquisition ; le pilotage mensuel du ratio clients/tête et du rendement réel est non négociable.
+
 ---
 
 # 10. Recommandation finale, roadmap, risques, KPIs
@@ -626,7 +656,9 @@ Canal sous-coté à coût nul (findings WS9) : les podcasts business FR de milie
 
 **M7-M12 — Montée en charge.** 12-20 clients signés cumulés ; 2-3 études de cas nommées publiées avec chiffres vérifiables ; portefeuille plafonné à 10-12 actifs — au-delà, montée du fixe (7,5-10 K€) plutôt que recrutement précipité (le pricing comme soupape, §9.5). Objectif encaissé année 1 : **100-300 K€**.
 
-**Année 2-3 (esquisse).** Constitution d'un délivery léger (1-2 personnes) ; extension au persona 3 (dirigeants structurés, panier 15-30 K€) avec les études de cas comme droit d'entrée ; part fixe croissante à mesure que la marque de preuve s'installe ; 350-900 K€/an (SOM §2.4).
+**Année 2-3 (esquisse, configuration organique).** Constitution d'un délivery léger (1-2 personnes) ; extension au persona 3 (dirigeants structurés, panier 15-30 K€) avec les études de cas comme droit d'entrée ; part fixe croissante à mesure que la marque de preuve s'installe ; 350-900 K€/an (SOM §2.4).
+
+**Variante scale (configuration retenue par le commanditaire — chiffrage complet §9.6).** La même séquence M0-M6 reste OBLIGATOIRE (fondations contractuelles + 3-5 clients fondateurs + jauges de validation) : on ne branche pas 1 K€/jour de pub sur une offre non validée en vente réelle. Ensuite : M4-M6 = montée progressive du budget (250 → 1 000 €/jour) avec itération créative vidéo, bascule au mix « Palier Scale » (5 K€ + 1 995 €/mois + 10 %) ; M6-M12 = recrutement de la livraison PAR PALIERS indexés sur le ratio clients/tête (embauche quand le ratio atteint 15:1, jamais en anticipation de plus d'un mois) ; objectif fin M12 : 210 clients actifs (ramp prudent) à 300 (volontariste), 4,0-6,5 M€ de CA an 1 ; saturation des 300 entre M13 et M26 → 13,2 M€/an. Les trois soupapes anti-surchauffe, dans l'ordre : hausse de la part fixe, durcissement de la qualification, extension d'équipe.
 
 ## 10.3 Risques et mitigations
 
@@ -650,6 +682,7 @@ Canal sous-coté à coût nul (findings WS9) : les podcasts business FR de milie
 ## 10.5 KPIs de suivi (tableau de bord mensuel)
 
 - **Funnel** : conversations qualifiées ; appels tenus (show-up ≥70 %) ; close rate (cible 25-30 % ; alerte <15 % sur 20 appels) ; taux de refus de candidats (sain : ≥50 %).
+- **Moteur payant (configuration scale)** : coût/appel booké (cible ≤170 €, alerte >250 €) ; CAC (cible ≤1 200 €, alerte >2 000 €) ; signatures/mois vs capacité soutenable (25/mois à 300 actifs) ; rendement réel/client vs 44 K€ cible ; ratio clients/tête de livraison (plancher 12:1) ; part du CA en pub (cible ≤4 %).
 - **Portefeuille** : clients actifs (plafond 10-12) ; répartition échec/moyen/fort vs mix central 30/45/25 (l'écart à ce mix est LE leading indicator du modèle) ; % de clients au-dessus de baseline à M3.
 - **Économie** : cash encaissé (fixe vs perf) ; taux de collecte perf (cible ≥85 % ; alerte <75 %, §6.5-T3) ; EV réalisée/client vs 16,8 K€ modélisé ; mois de trésorerie devant soi.
 - **Marque de preuve** : études de cas nommées publiées ; passages podcast ; part d'inbound dans les conversations (cible : >50 % à M12).

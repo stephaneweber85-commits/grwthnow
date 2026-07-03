@@ -7,7 +7,7 @@
 
 ## 1. La décision proposée
 
-**GO.** Nous lançons une activité d'accompagnement des coachs, consultants et infopreneurs francophones établis (5-15 K€/mois) vers 30-50 K€/mois, facturée **5 000 € d'entrée + 12,5 % du cash incrémental réellement encaissé** — plafonné, contractualisé, mesuré. Objectif : 12-20 clients et 100-300 K€ encaissés en année 1, 350-900 K€/an en années 2-3, sur un marché adressable de 25-35 M€/an pour ce format.
+**GO.** Nous lançons une activité d'accompagnement des coachs, consultants et infopreneurs francophones établis (5-15 K€/mois) vers 30-50 K€/mois, facturée en hybride à risque inversé : **5 000 € d'entrée + mensualité + pourcentage du cash incrémental réellement encaissé** — plafonné, contractualisé, mesuré. Configuration : moteur d'acquisition payante à **1 000 €/jour** (vidéo YouTube, Google Ads, LinkedIn, Instagram) produisant 6-8 appels qualifiés/jour, équipe de livraison dimensionnée pour **300 clients simultanés**, rendement cible **44 K€ HT/an par client** (notre étude interne). Objectifs : 210-300 clients actifs et **4,0-6,5 M€ de CA en année 1** selon le ramp, **13,2 M€/an à pleine capacité** — le niveau du n°1 actuel du segment.
 
 La thèse tient en trois phrases :
 1. **Le marché entier vend le mot « partenaire » — personne n'affiche le contrat.** Sur 19 acteurs analysés en profondeur, zéro ne publie de partage de risque sur le résultat. Et nous savons de source directe que le seul qui le pratique en privé le fait SANS inversion du risque : les conditions réelles d'un contrat client de Karim Cherifi, que nous avons pu documenter confidentiellement, s'établissent à 15 000 € de setup + 2 500 €/mois + 10 % de perf — soit ~45 K€/an de fixe portés par le client avant tout partage. Nous serons les premiers à **afficher** un contrat où le risque change réellement de camp.
@@ -58,7 +58,10 @@ Trois lignes de défense rendent ce modèle difficile à copier :
 
 Accompagnement done-with-you de 12 mois : refonte d'offre et de pricing (le levier n°1 des clients en plateau), système d'acquisition adapté au canal du client, cadence hebdomadaire de pilotage, systématisation de la vente, délégation à partir de M6.
 
-**Mécanique financière** : 5 000 € à la signature (finance la livraison des 4 premiers mois) + 12,5 % du cash incrémental encaissé au-dessus de la baseline (moyenne des 3 mois pré-signature), facturé mensuellement, **plafonné à 45 000 €**, **sortie possible à M4**. Option 15 % pour les baselines 5-8 K€/mois.
+**Mécanique financière — deux étages selon la phase** :
+- **Amorçage (clients fondateurs, M1-M4)** : 5 000 € à la signature + 12,5 % du cash incrémental encaissé au-dessus de la baseline (moyenne des 3 mois pré-signature) — l'arme de conquête maximale, contre étude de cas nommée.
+- **Régime scale (« Palier Scale », dès M4-M6)** : **5 000 € d'entrée + 1 995 €/mois + 10 % du cash incrémental encaissé** → rendement blended ≈ 38-46 K€/an par client, cohérent avec les 44 K€ HT/an de notre étude interne — tout en restant 3× moins risqué à l'entrée que le standard du marché (source directe : 15 K€ + 2 500 €/mois + 10 %).
+- Dans les deux étages : facturation mensuelle de la perf, **plafond de 45 000 €**, **sortie possible à M4** — deux clauses que personne d'autre n'offre.
 
 **Le pitch de vente tient en une ligne** : *« Si vous nous payez un jour plus cher qu'un accompagnement classique à 25 K€, c'est que vous aurez encaissé plus de 200 000 € de plus. »*
 
@@ -81,16 +84,34 @@ La question que la table posera : « on va où, exactement ? ». Réponse : **su
 
 En une phrase pour la table : **même terrain de jeu, même client, même machine à étages que les référents du marché — mais avec le contrat en face du discours, et c'est précisément la pièce qu'aucun d'eux ne peut ajouter à sa machine sans la casser.**
 
-## 7. Le plan d'exécution 12 mois
+## 7. Le moteur de croissance : 1 K€/jour de vidéo, un funnel qui remplit la capacité
+
+Notre plan média : 1 000 €/jour de publicité vidéo ciblée — YouTube, Google Ads, LinkedIn, Instagram — soit 30,4 K€/mois, calibré pour produire 6-8 appels qualifiés bookés par jour. Le funnel, modélisé sur les benchmarks du marché (coût/appel, show-up, closing) :
+
+| Scénario | Appels bookés/mois | Coût/appel | Signatures/mois | CAC |
+|---|---|---|---|---|
+| Bas | 182 | 167 € | **23** | 1 323 € |
+| Central | 213 | 143 € | **35** | 866 € |
+| Haut | 243 | 125 € | **58** | 525 € |
+
+Quatre chiffres à retenir pour la table :
+1. **LTV/CAC ≈ 51×.** Un client rapporte 44 K€ HT/an (notre étude interne) pour ~870 € d'acquisition. Même dans un monde dégradé (CAC 2 000 €, rendement 35 K€), le ratio reste à 17× — l'acquisition n'est pas le risque de ce business.
+2. **Le funnel SUR-remplit la capacité.** À 300 clients simultanés et 12 mois d'engagement, le régime soutenable est de 25 signatures/mois ; le funnel central en produit 35. Nous aurons un problème de riches — et trois soupapes dans l'ordre : monter les prix, durcir la sélection, étendre l'équipe.
+3. **La trajectoire** : 210 clients actifs fin d'année 1 en ramp prudent (~4,0 M€ de CA), 300 en ramp volontariste (~6,5 M€) ; pleine capacité **13,2 M€/an** atteinte entre M13 et M26. À ce niveau, nous sommes le n°1 francophone du segment — c'est un objectif d'année 3-5, jalonné, pas une promesse d'année 1.
+4. **L'économie à pleine capacité** : pub 2,8 % du CA, vente ~10 %, livraison ~11 % (20 coachs à 15 clients/tête) → **EBITDA cible ~67 %**, qui tient tant que le rendement client reste ≥ 40 K€ et le ratio de livraison ≥ 12-15 clients/tête. C'est là que se gagne ou se perd la marge — pas dans le CPM. Notre discipline : recruter la livraison par paliers indexés sur le ratio clients/tête, jamais en anticipation ; le secteur qui a scalé sans cette discipline a déposé des pertes, nous avons l'étude pour le prouver.
+
+Et la règle d'or qui protège le budget : **la pub amplifie la confiance, elle ne la remplace pas.** Les 3-6 premiers mois construisent la couche de preuve (clients fondateurs, études de cas nommées, contrat public) sur laquelle les créas s'appuient — c'est précisément l'inverse du concurrent qui brûle son budget YouTube Ads sur une marque sans preuve sociale (72 abonnés Instagram), et dont le funnel est la pièce la plus faible malgré des années d'antériorité.
+
+## 8. Le plan d'exécution 12 mois
 
 - **M0-M1 — Fondations** : SAS française à comptes non confidentiels (c'est un argument de vente, pas une contrainte), contrat-type relu par avocat, tableau de bord d'attribution, page de vente à prix public.
 - **M1-M3 — Preuve** : 3-5 clients fondateurs à 5 K€ + 10 % contre étude de cas nommée ; lancement du canal LinkedIn + long-form ; premiers podcasts en invité (angle imparable : « nous avons triangulé les vrais chiffres du marché »).
-- **M4-M6 — Validation** : jauges chiffrées (close ≥ 20 % sur 15+ appels ; ≥ 2 fondateurs au-dessus de leur baseline à M3 ; collecte du % sans friction). Passage au tarif plein.
-- **M7-M12 — Montée en charge** : 12-20 clients signés, 2-3 études de cas nommées publiées, portefeuille plafonné à 10-12 actifs — au-delà, on monte le fixe (7,5-10 K€) : **le pricing est notre soupape de capacité, la croissance ne nous oblige jamais à dégrader la livraison.**
-- **Trésorerie** : 6 mois de charges devant nous (ou 3-4 ventes d'amorçage à fixe majoré) — le modèle encaisse plus lentement les 8 premiers mois, puis dépasse définitivement le modèle cash à M12. C'est un plan de financement, pas un risque : il est chiffré mois par mois en annexe.
-- **Années 2-3** : extension aux dirigeants structurés (panier 15-30 K€), part fixe croissante à mesure que la marque de preuve s'installe — trajectoire déjà validée par le seul précédent du marché (l'agence partie 100 % performance qui a remonté son fixe une fois la réputation faite).
+- **M4-M6 — Validation puis mise à feu** : jauges chiffrées (close ≥ 20 % sur 15+ appels ; ≥ 2 fondateurs au-dessus de leur baseline à M3 ; collecte du % sans friction). Si les jauges passent : bascule au mix « Palier Scale » et **montée du budget média de 250 à 1 000 €/jour** avec itération créative vidéo (le coût/appel cible ≤ 170 € s'obtient en 2-3 mois de tests, pas au premier jour).
+- **M6-M12 — Montée en charge industrielle** : funnel en régime (6-8 appels/jour, 23-35 signatures/mois), recrutement de la livraison PAR PALIERS indexés sur le ratio clients/tête (embauche à 15:1, jamais plus d'un mois d'anticipation) ; objectif fin M12 : **210-300 clients actifs, 4,0-6,5 M€ de CA an 1**. Si le funnel dépasse la capacité d'absorption : on monte les prix et on durcit la sélection AVANT d'accélérer les embauches — **le pricing est notre première soupape de capacité, la croissance ne nous oblige jamais à dégrader la livraison.**
+- **Trésorerie** : le fixe mensuel du mix Scale (1 995 €/mois) couvre le coût de livraison courant dès la signature — le creux de trésorerie du modèle initial est neutralisé par construction ; le budget média (30 K€/mois en régime) est autofinancé dès ~35-40 clients actifs (M5-M7). Besoin de financement : les 4-6 premiers mois (amorçage + montée média), chiffré en annexe.
+- **M13-M26 — Saturation** : maintien de 25-30 signatures/mois jusqu'aux 300 actifs → **13,2 M€/an en pleine capacité**, EBITDA cible ~67 % sous deux disciplines : rendement client ≥ 40 K€ et ratio de livraison ≥ 12-15 clients/tête. Extension au segment dirigeants (panier supérieur) avec les études de cas comme droit d'entrée.
 
-## 8. Ce que nous répondrons aux sceptiques (parce qu'ils poseront ces questions)
+## 9. Ce que nous répondrons aux sceptiques (parce qu'ils poseront ces questions)
 
 **« Si c'était si bon, les gros le feraient déjà. »** Non : leurs tunnels cash convertissent déjà avec un panier supérieur par client — passer à la performance leur coûterait de la marge et les forcerait à prouver leurs promesses. Le modèle est optimal précisément pour un ENTRANT : personne ne paie 25 K€ d'avance à un inconnu ; beaucoup risquent 5 K€ quand le vendeur partage le risque. C'est notre avantage structurel de nouvel entrant, pas un oubli du marché.
 
@@ -98,13 +119,15 @@ En une phrase pour la table : **même terrain de jeu, même client, même machin
 
 **« Et les mauvais clients ? »** C'est le paramètre n°1 du modèle (analyse tornado en annexe) — et il est sous NOTRE contrôle : barre d'entrée écrite, publique, non négociable. Un client refusé ne nous coûte rien ; un bon client vaut jusqu'à 40 K€. La sélectivité n'est pas de la prudence, c'est la machine.
 
+**« 13 M€ sur un marché de 25-35 M€ — vous visez la moitié du segment ? »** Oui, et nous le disons plutôt que de le laisser découvrir : la pleine capacité représente le leadership du segment (le n°1 vérifié actuel fait 10-19 M€/an), c'est un objectif d'année 3-5 avec des jalons intermédiaires (4-6,5 M€ dès l'année 1 si le ramp tient), pas une extrapolation de tableur. Et le marché s'élargit sous nos pieds : +65-70 000 créations/an de consultants, croissance à deux chiffres du coaching, montée du panier vers les dirigeants. Trois issues si le segment s'avère plus étroit : montée en gamme (persona dirigeants, panier 15-30 K€), extension géographique, hausse de la part fixe — chacune documentée dans l'étude.
+
 **« Cherifi le fait déjà — pourquoi nous ? »** Oui — et c'est notre meilleur argument. Les conditions réelles de son programme, que nous avons documentées de source directe (15 K€ + 2 500 €/mois + 10 %), révèlent un hybride à dominante fixe : le client paie ~45 K€/an quoi qu'il arrive — plus cher que les offres cash du marché — et la perf s'ajoute par-dessus. C'est un excellent business pour lui ; ce n'est pas une inversion du risque pour le client. Notre offre attaque exactement ce flanc : 5 K€ d'entrée (9× moins de risque initial), la majorité de notre rémunération indexée sur le cash réellement encaissé, le tout affiché publiquement quand son prix n'existe qu'en appel de vente. Sa réussite ne nous barre pas la route : elle valide le prix, la demande et la niche, et nous laisse le seul angle qu'il ne peut pas prendre sans casser son propre modèle : le risque partagé, écrit, public.
 
-## 9. Ce que nous décidons aujourd'hui
+## 10. Ce que nous décidons aujourd'hui
 
-1. **GO** sur le lancement sous le modèle 5 K€ + 12,5 % (option 15 % baselines basses), cible « établis en plateau » 5-15 K€/mois.
-2. Validation du nom de l'offre (« Palier » proposé) et du budget d'amorçage (6 mois de charges + frais juridiques du contrat-type).
-3. Lancement M0-M1 : entité, contrat, tableau de bord, page de vente — puis 5 clients fondateurs.
+1. **GO** sur le lancement : amorçage à 5 K€ + 12,5 %, puis bascule au mix « Palier Scale » (5 K€ + 1 995 €/mois + 10 %) dès la preuve faite ; cible « établis en plateau » 5-15 K€/mois.
+2. Validation du nom de l'offre (« Palier » proposé) et des budgets : amorçage (6 mois de charges + frais juridiques du contrat-type) puis **plan média 1 K€/jour** (montée 250 → 1 000 €/jour entre M4 et M6, ~365 K€ en année pleine) et **plan de recrutement livraison par paliers** (embauche indexée sur le ratio 15 clients/tête, jamais en anticipation de plus d'un mois).
+3. Lancement M0-M1 : entité, contrat, tableau de bord d'attribution, page de vente, studio créa vidéo — puis 5 clients fondateurs avant d'armer le budget média.
 
 **Le résumé en une phrase pour la table : le marché promet le partenariat depuis cinq ans sans jamais le signer ; nous sommes les premiers à mettre le contrat en face du discours, sur un marché de 120-150 M€ qui ne demande que ça — et chaque chiffre de ce mémo survit à une due diligence, l'étude complète de 205 pages en fait foi.**
 

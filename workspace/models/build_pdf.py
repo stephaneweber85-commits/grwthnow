@@ -20,6 +20,9 @@ annexes = []
 annexes.append(("Annexe A — Modèle économique : hypothèses et tables complètes (T1-T10)",
                 demote((WS / "findings" / "ws6-model-output.md").read_text())))
 
+annexes.append(("Annexe A2 — Modèle scale : moteur payant 1 K€/jour, capacité 300 clients, P&L cible",
+                demote((WS / "findings" / "ws-scale-model.md").read_text())))
+
 annexes.append(("Annexe B — Chain-of-Verification : les 12 verdicts détaillés",
                 demote((WS / "findings" / "cov-verdicts.md").read_text())))
 
