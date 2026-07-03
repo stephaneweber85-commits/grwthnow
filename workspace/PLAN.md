@@ -11,16 +11,18 @@ de valeur, (5) go/no-go + positionnement + profil client de départ.
 
 ## Workstreams (état)
 - [x] WS0 — Setup workspace + branche + vérif accès web
-- [x] WS1 — Ancrage Benoit Michaud (identité confirmée : @benoit.mchd, co-fondateur Les Copywriters & Scaling Circle) → deep dive lancé
-- [ ] WS2 — Benchmark 15-20 acteurs (roster → fiches) — EN COURS (workflow 1)
-- [ ] WS3 — Triangulation financière (par fiche + croisement) — EN COURS (intégré aux fiches)
-- [ ] WS4 — Sizing TAM/SAM/SOM (top-down + bottom-up) — EN COURS (workflow 1)
-- [ ] WS5 — Demande / personas / carte d'influence — EN COURS (workflow 1)
-- [ ] WS6 — Économie du modèle 5K+perf (recherche contractuelle : workflow 1 ; modélisation Python : inline phase 3)
-- [ ] WS7 — Design d'offre irrésistible — Phase 3 (dépend WS5+WS6)
-- [ ] WS8 — Positionnement & white space — Phase 3 (dépend WS2)
-- [ ] WS9 — GTM / acquisition — EN COURS (workflow 1) + synthèse phase 3
-- [ ] WS-CRITIQUE — Exposés / critiques / réputation des acteurs — EN COURS (workflow 1)
+- [x] WS1 — Ancrage Benoit Michaud (fiche + triangulation : holding 201 250 € de CA 2023)
+- [x] WS2 — Benchmark : 19 fiches acteurs (15 discovery + 4 gap-fill)
+- [x] WS3 — Triangulation financière : tableau §5.2 (19 lignes)
+- [x] WS4 — Sizing TAM/SAM/SOM top-down + bottom-up réconciliés (§2)
+- [x] WS5 — Demande : 3 personas + carte d'influence (§3)
+- [x] WS6 — Modèle 5K+perf : unit economics Python + sensibilité + attribution (§6)
+- [x] WS7 — Offre « Palier » via équation de valeur (§8)
+- [x] WS8 — Positionnement + 5 forces + white space (§7)
+- [x] WS9 — GTM 3 étages (§9)
+- [x] WS-CRITIQUE — Réputation/exposés intégrés (§3.4, §5.3, fiches)
+- [x] Rapport assemblé : deliverable/etude_marche_growth_partner_perf.md (~18,5K mots + 25 tableaux)
+- [~] Chain-of-Verification : 8/12 verdicts rendus (C1,C3-C8 confirmés ; C2 partiel corrigé) — C9-C12 en cours
 
 ## Phases
 1. TRIAGE (~15%) : fait — ancrage OK, workflow discovery lancé
