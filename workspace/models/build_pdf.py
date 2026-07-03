@@ -44,6 +44,7 @@ FICHES = [
     ("yomi-denzel.md", "Yomi Denzel — Mindeo"),
     ("max-piccinini.md", "Max Piccinini"),
     ("david-laroche.md", "David Laroche — Paradox"),
+    ("addendum-cherifi-firsthand.md", "Addendum — donnée de première main sur Karim Cherifi (contrat client du commanditaire)"),
 ]
 fiches_md = []
 for i, (fname, title) in enumerate(FICHES, 1):

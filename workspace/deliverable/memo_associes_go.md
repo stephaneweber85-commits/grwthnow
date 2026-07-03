@@ -10,20 +10,20 @@
 **GO.** Nous lançons une activité d'accompagnement des coachs, consultants et infopreneurs francophones établis (5-15 K€/mois) vers 30-50 K€/mois, facturée **5 000 € d'entrée + 12,5 % du cash incrémental réellement encaissé** — plafonné, contractualisé, mesuré. Objectif : 12-20 clients et 100-300 K€ encaissés en année 1, 350-900 K€/an en années 2-3, sur un marché adressable de 25-35 M€/an pour ce format.
 
 La thèse tient en trois phrases :
-1. **Le marché entier vend le mot « partenaire » — personne n'en signe le contrat.** Sur 19 acteurs analysés en profondeur, zéro ne partage le risque sur le résultat business. Nous serons les premiers.
-2. **La demande a déjà basculé de notre côté** : les clients n'achètent plus des méthodes, ils achètent des résultats — c'est documenté par les acteurs eux-mêmes.
+1. **Le marché entier vend le mot « partenaire » — personne n'affiche le contrat.** Sur 19 acteurs analysés en profondeur, zéro ne publie de partage de risque sur le résultat. Et nous savons de première main que le seul qui le pratique en privé le fait SANS inversion du risque : nous sommes nous-mêmes client de Karim Cherifi, à 15 000 € de setup + 2 500 €/mois + 10 % de perf — soit ~45 K€/an de fixe portés par le client avant tout partage. Nous serons les premiers à **afficher** un contrat où le risque change réellement de camp.
+2. **La demande a déjà basculé de notre côté** : les clients n'achètent plus des méthodes, ils achètent des résultats — c'est documenté par les acteurs eux-mêmes, et notre propre contrat Cherifi prouve que le pricing à la performance se vend, à des niveaux de prix supérieurs à nos hypothèses.
 3. **L'économie du modèle est démontrée** : l'inversion du risque convertit ~2,3× mieux, génère +57 % de revenu par appel de vente, et construit un actif que les incumbents ne peuvent pas copier sans se renier.
 
 ## 2. L'opportunité : un vide contractuel au milieu d'un marché qui en réclame le contenu
 
 Le marché francophone de l'accompagnement business high-ticket pèse **120-150 M€/an** (fourchette 80-200 M€, double approche top-down/bottom-up réconciliée), avec 8 000 à 34 000 clients potentiels qualifiés et 900 à 4 500 acheteurs par an. Il croît à deux chiffres, porté par un afflux record d'indépendants (~65-70 000 créations par an rien que sur le code « conseil pour les affaires », 2e code NAF le plus créé de France).
 
-Et voici le fait central de l'étude : **la promesse de partenariat est partout, le partage de risque nulle part.**
-- « Business Partner IA » (Cherifi), « Partenariat » (Rigottier), « growth partner » (Michaud/Scaling Circle) : tous facturent **100 % cash d'avance, à prix caché**.
-- Les 19 fiches concurrents le confirment une par une : la colonne « rémunération indexée sur le résultat client » est **vide** sur tous les étages solvables du marché.
-- Le fait que même les acteurs les plus agressifs commercialement aient bâti leur marketing sur le MOT « partner » prouve que le concept vend. Aucun n'a osé le rendre contractuel — parce que ça les obligerait à assumer leurs promesses.
+Et voici le fait central de l'étude : **la promesse de partenariat est partout ; l'inversion du risque, nulle part.**
+- « Partenariat » (Rigottier), « growth partner » (Michaud/Scaling Circle) et la quasi-totalité du marché : **100 % cash d'avance, à prix caché**. Les 19 fiches concurrents le confirment une par une : aucune offre publiée n'indexe la rémunération sur le résultat du client.
+- **Le cas Cherifi — notre donnée de première main, et notre meilleur argument.** Nous sommes client de son programme « Business Partner IA » : 15 000 € de setup + 2 500 €/mois + 10 % de perf fees, et la prestation est de qualité. Ce contrat prouve trois choses : (1) le modèle hybride SE VEND, cher, dès aujourd'hui, sur notre marché ; (2) il se vend **sans être affiché nulle part** (le prix n'existe qu'en appel de vente) ; (3) il se vend **sans transfert de risque** — le client porte ~45 000 €/an de fixe avant que le moindre partage ne commence.
+- Le concept est donc validé par le marché ; ce qui n'existe pas, c'est sa version honnête et publique : **fixe d'entrée faible, majorité de la rémunération indexée, contrat affiché**.
 
-**C'est exactement l'écart que nous monétisons : nous rendons contractuel ce que le marché ne fait que promettre.**
+**C'est exactement l'écart que nous monétisons : nous affichons publiquement, avec une vraie inversion du risque, ce que le marché vend en coulisses sans jamais l'assumer.**
 
 ## 3. Pourquoi maintenant : trois bascules déjà documentées
 
@@ -62,6 +62,8 @@ Accompagnement done-with-you de 12 mois : refonte d'offre et de pricing (le levi
 
 **Le pitch de vente tient en une ligne** : *« Si vous nous payez un jour plus cher qu'un accompagnement classique à 25 K€, c'est que vous aurez encaissé plus de 200 000 € de plus. »*
 
+**Marge de manœuvre prix documentée** : nous savons de première main que ce marché accepte 15 K€ de setup + 2 500 €/mois + 10 % — notre entrée à 5 K€ est une arme de conquête, pas un plafond. À mesure que la preuve s'accumule, la part fixe peut monter (7,5-10 K€) sans jamais perdre l'avantage décisif du risque partagé.
+
 Et la page de vente empile six engagements qu'aucun concurrent ne peut afficher : prix public, contrat relisible par avocat avant signature, comptes de notre société publics, bonus plafonné, sortie à M4, sélectivité assumée.
 
 ## 6. Le plan d'exécution 12 mois
@@ -81,7 +83,7 @@ Et la page de vente empile six engagements qu'aucun concurrent ne peut afficher 
 
 **« Et les mauvais clients ? »** C'est le paramètre n°1 du modèle (analyse tornado en annexe) — et il est sous NOTRE contrôle : barre d'entrée écrite, publique, non négociable. Un client refusé ne nous coûte rien ; un bon client vaut jusqu'à 40 K€. La sélectivité n'est pas de la prudence, c'est la machine.
 
-**« Cherifi et les autres cartonnent avec ce genre de modèle. »** Précision importante — et c'est une force pour nous : ils cartonnent avec le *discours* du partenariat, pas avec le modèle. Cherifi vend du cash pur à prix caché sous la marque « Business Partner » ; ses chiffres publics n'ont pas résisté à notre triangulation (comme la quasi-totalité du marché : revendications 2 à 10× au-dessus du vérifiable). Deux conséquences : (1) la demande pour le concept est prouvée par leur marketing même ; (2) la barre de la preuve honnête est très basse — le premier acteur qui contractualise et documente gagne le terrain à lui seul. C'est nous.
+**« Cherifi le fait déjà — pourquoi nous ? »** Oui, et nous sommes idéalement placés pour répondre : nous sommes son client. Sa structure (15 K€ + 2 500 €/mois + 10 %) est un hybride à dominante fixe : le client paie ~45 K€/an quoi qu'il arrive — plus cher que les offres cash du marché — et la perf s'ajoute par-dessus. C'est un excellent business pour lui ; ce n'est pas une inversion du risque pour le client. Notre offre attaque exactement ce flanc : 5 K€ d'entrée (9× moins de risque initial que ce que nous payons nous-mêmes), la majorité de notre rémunération indexée sur le cash réellement encaissé, le tout affiché publiquement quand son prix n'existe qu'en appel de vente. Et parce que nous vivons sa prestation de l'intérieur, nous savons précisément ce qui fait sa qualité — et ce qui reste à battre. Sa réussite ne nous barre pas la route : elle valide le prix, la demande et la niche, et nous laisse le seul angle qu'il ne peut pas prendre sans casser son propre modèle : le risque partagé, écrit, public.
 
 ## 8. Ce que nous décidons aujourd'hui
 
