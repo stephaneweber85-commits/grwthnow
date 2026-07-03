@@ -51,7 +51,7 @@ Les deux chemins convergent vers un high-ticket francophone de l'ordre de **100-
 - Année 1 : 12-20 clients signés × (5 K€ + perf moyenne 5-12 K€ encaissée avec décalage) → **100-300 K€ encaissés**.
 - Années 2-3 : 20-35 clients actifs cumulés + queue de perf des cohortes précédentes → **350-900 K€/an**.
 - Soit ~1-2 % du SAM central : ambitieux mais pas hors distribution (Squared fait ~0,7-1,6 M€/an avec 3-5 salariés, cf. §4.11).
-- **Configuration scale du commanditaire** (1 K€/jour de pub, équipe 300 clients, rendement 44 K€ HT/an — §9.6) : 4,0-6,5 M€ en année 1 selon le ramp, 13,2 M€/an à pleine capacité — soit 40-50 % du SAM central : un objectif de **leadership de segment** (année 3-5), qui suppose que le SAM se réalise en haut de fourchette ou s'élargisse (montée du panier vers le persona 3, extension géographique) ; à afficher comme ambition jalonnée, pas comme extrapolation.
+- **Configuration scale du commanditaire** (1 K€/jour de pub, équipe 300 clients, offre 5 K€ + 15 %, thèse de service ×3-4 — §6.9 et §9.6) : 3,3-5,4 M€ en année 1 selon le ramp, ~10,5 M€/an à pleine capacité — soit 30-40 % du SAM central : un objectif de **leadership de segment** (année 3-5), qui suppose que le SAM se réalise en haut de fourchette ou s'élargisse (montée du panier vers le persona 3, extension géographique) ; à afficher comme ambition jalonnée, pas comme extrapolation.
 
 ## 2.5 Dynamique et tendances (2024-2026)
 

@@ -4,7 +4,7 @@ Toutes les tables citées (T1-T10) sont reproduites intégralement en annexe tec
 
 ## 6.1 Réponse d'abord
 
-Le modèle hybride est **viable, mais pas pour la raison intuitive**. Par client, il rapporte MOINS que le 25 K€ cash (EV ≈ 16,8 K€ vs 25 K€ en scénario central à 12,5 %). Il gagne sur trois autres terrains : (1) **la conversion** — à flux de leads égal, il signe ~2,3× plus de clients (inversion du risque), ce qui fait +57 % d'EV par 100 appels et un dépassement durable du modèle cash dès le mois 12 ; (2) **la vendabilité** pour un entrant sans track record — personne ne paie 25 K€ à un inconnu, beaucoup risquent 5 K€ ; (3) **la LTV des clients gagnants** (~40 K€ avec renouvellement). Ses trois conditions de viabilité : une **qualification d'entrée stricte** (baseline ≥ 4-6 K€/mois), une **mécanique d'attribution contractualisée avant signature**, et **6 mois de trésorerie** pour traverser le creux de cash initial.
+Le modèle hybride est **viable, mais pas pour la raison intuitive**. En calibrage marché conservateur, il rapporte MOINS que le 25 K€ cash par client (EV ≈ 16,8 K€ à 12,5 % et 19,2 K€ au taux retenu de 15 %, vs 25 K€) — le plan financier du scénario opérationnel retenu (5 K€ + 15 %, thèse de service ×3-4) est en §6.9. Il gagne sur trois autres terrains : (1) **la conversion** — à flux de leads égal, il signe ~2,3× plus de clients (inversion du risque), ce qui fait +57 % d'EV par 100 appels et un dépassement durable du modèle cash dès le mois 12 ; (2) **la vendabilité** pour un entrant sans track record — personne ne paie 25 K€ à un inconnu, beaucoup risquent 5 K€ ; (3) **la LTV des clients gagnants** (~40 K€ avec renouvellement). Ses trois conditions de viabilité : une **qualification d'entrée stricte** (baseline ≥ 4-6 K€/mois), une **mécanique d'attribution contractualisée avant signature**, et **6 mois de trésorerie** pour traverser le creux de cash initial.
 
 ## 6.2 Hypothèses du modèle (explicites, à challenger)
 
@@ -79,3 +79,26 @@ C'est LE point de défaillance du modèle (2e paramètre du tornado ; « la comp
 - **Creux de trésorerie** : en démarrage réaliste (2 clients/mois), l'hybride encaisse 74 K€ cumulés à M6 (vs 107 K€ en cash aux mêmes leads) — prévoir ~6 mois de charges personnelles ou 3-4 ventes d'amorçage à part fixe majorée.
 - **Volume d'équilibre** : EV 16,8 K€/client → ~18 clients/an pour égaler 12 ventes cash à 25 K€ (300 K€). Avec un plafond solo de 10-12 clients actifs, l'objectif d'année 1 est 12-20 signatures, soit 100-300 K€ encaissés (cohérent avec le SOM, §2.4).
 - **Discipline de portefeuille** : chaque client « échec » évité (qualification) vaut ~11,6 K€ d'EV relative (différence échec→moyen) ; c'est le levier n°1 du modèle, avant le marketing.
+
+## 6.9 Le plan financier retenu : 5 K€ + 15 %, thèse de service ×3-4 (section décisionnelle)
+
+Suite aux arbitrages du commanditaire, l'offre retenue est **5 000 € de setup + 15 % du cash incrémental encaissé** (sans mensualité), adossée à sa thèse de service : porter le client de 5-10 K€/mois à **25-35 K€/mois minimum en ~4 mois** (thèse opérationnelle interne — statut d'hypothèse à démontrer publiquement sur les 5-10 premiers clients, cf. F0). Plan financier complet, reproductible : [findings/ws-finance-plan.md](../findings/ws-finance-plan.md) ([models/finance_scenario.py](../models/finance_scenario.py)). L'essentiel :
+
+**Par client (année 1, collecte 85 %)** : trajectoire 5→25 K€/mois = 210 K€ de cash incrémental → l'agence encaisse **31,8 K€** ; trajectoire 10→35 K€ = 262,5 K€ → **38,5 K€** (44,4 K€ à collecte parfaite — cohérent avec les 44 K€ HT/an de l'étude interne). Le client, lui, gagne 210-262 K€ en payant 32-38 K€ : **ROI client +550 à +580 %** — l'alignement qui fait vendre l'offre et tenir les renouvellements (année 2 perf-only : 30,6-38,3 K€/client).
+
+**Le moteur (1 K€/jour)** : 25-66 signatures/mois (central 40), CAC 460-1 194 € (central **762 €**) — **le setup de 5 K€ rembourse le CAC dès la signature** : l'acquisition s'autofinance client par client. LTV/CAC 42-51× en thèse pleine, encore 16× dans le pire scénario de robustesse.
+
+**Trajectoires (thèse pleine, 85 %)** : ramp prudent → 210 actifs fin M12, **CA an 1 : 3,32 M€**, an 2 : 9,93 M€ ; ramp volontariste → 300 actifs fin M12, **CA an 1 : 5,39 M€**, an 2 : 11,3 M€. Point mort opérationnel : M2-M4. **P&L à pleine capacité : 10,5 M€ de CA, EBITDA 61 %** (pub 3,5 %, vente 10 %, livraison 13,3 %, ops+management 12,3 %).
+
+**Le test de robustesse — la table à montrer aux associés** (hypothèses dégradées : les clients hors-thèse finissent 50 % « partiels » à +8 K€/mois, 50 % « échecs » sortis à M4) :
+
+| Part des clients atteignant 25-35 K€ | EV/client an 1 | CA à 300 actifs | EBITDA |
+|---|---|---|---|
+| 100 % (thèse pleine) | 35,1 K€ | 10,54 M€ | **61 %** |
+| 70 % | 27,8 K€ | 8,34 M€ | **53 %** |
+| 50 % | 22,9 K€ | 6,87 M€ | **45 %** |
+| 30 % | 18,0 K€ | 5,40 M€ | **33 %** |
+
+Lecture décisionnelle : **la thèse n'a pas besoin d'être vraie pour que l'entreprise soit très rentable — elle a besoin d'être vraie pour atteindre le scénario haut et alimenter la machine de preuve.** Même si un client sur deux seulement atteint l'objectif, l'EBITDA reste à 45 % ; même à 30 %, chaque client signé rapporte 18 K€ pour ~760 € d'acquisition. Sous ~30 % de réussite, le facteur limitant devient la réputation (études de cas, renouvellements), pas le P&L. Les deux protections structurelles de la thèse : la sélection à l'entrée (le funnel produit 40 signatures possibles pour 25 nécessaires → on choisit les meilleures baselines) et les 4 KPI de pilotage mensuel (rendement réel/client, ratio clients/coach ≥ 12-15, collecte ≥ 85 %, coût/call ≤ 170 €).
+
+Cohérence avec le reste de la section : le modèle marché-calibré (§6.1-6.8, mix 30/45/25) reste le **stress-test de référence** — il correspond peu ou prou à la ligne « 30 % » du tableau ci-dessus, et le plan reste rentable à ce niveau. L'écart entre les deux lectures est exactement ce que les 5-10 premiers clients doivent trancher (jauges M4-M6, §10.2).

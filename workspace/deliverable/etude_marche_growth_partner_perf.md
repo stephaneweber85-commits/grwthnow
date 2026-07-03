@@ -1,4 +1,4 @@
-# Étude de marché — « Partenaire de croissance » francophone à facturation hybride (5 K€ + 10-15 % des résultats)
+# Étude de marché — Accompagnement business à résultats partagés (5 K€ de setup + 15 % à la performance) · Marché francophone du « growth partnership »
 
 **Commanditaire : Stéphane Weber · Date : 3 juillet 2026 · Périmètre : espace francophone (FR, BE, CH romande, QC), livraison à distance**
 
@@ -24,9 +24,9 @@
 
 ## 1.1 La recommandation en une page
 
-**VERDICT : GO CONDITIONNEL.** Lancer l'activité de partenaire de croissance en facturation hybride — 5 000 € d'entrée + 12,5 % du cash incrémental encaissé (15 % sur les baselines basses) — sur le profil « établi en plateau » : coach business, consultant ou infopreneur francophone faisant déjà 5-15 K€/mois. Trois conditions non négociables : (1) barre de qualification écrite (baseline ≥ 5 K€/mois, offre validée, accès tracking accepté), (2) mécanique d'attribution contractualisée avant la première signature (baseline contractuelle, Stripe lecture seule, % sur cash encaissé net, fenêtre 90 jours, plafond 45 K€, sortie possible à M4), (3) six mois de trésorerie devant soi. Deux configurations de lancement sont chiffrées : en **configuration organique** (opérateur seul, sans budget), 12-20 clients et 100-300 K€ encaissés en année 1 ; en **configuration scale** — celle retenue par le commanditaire : 1 000 €/jour de publicité vidéo (YouTube, Google Ads, LinkedIn, Instagram), 6-8 appels qualifiés/jour, équipe de livraison dimensionnée pour 300 clients simultanés — le funnel modélisé produit 23-58 signatures/mois (central 35) pour un CAC de ~870 €, soit **90-147 clients actifs moyens et 4,0-6,5 M€ de CA en année 1**, et 13,2 M€/an à pleine capacité sur la base d'un rendement client de 44 K€ HT/an (donnée interne du commanditaire — §9.6 et annexe scale).
+**VERDICT : GO CONDITIONNEL.** Lancer l'activité d'accompagnement à résultats partagés — **5 000 € de setup + 15 % du cash incrémental encaissé** — sur le profil « établi en plateau » : coach business, consultant ou infopreneur francophone faisant déjà 5-15 K€/mois, avec pour thèse de service de le porter à 25-35 K€/mois en ~4 mois (thèse opérationnelle du commanditaire, plan financier complet en §6.9). Trois conditions non négociables : (1) barre de qualification écrite (baseline ≥ 5 K€/mois, offre validée, accès tracking accepté), (2) mécanique d'attribution contractualisée avant la première signature (baseline contractuelle, Stripe lecture seule, % sur cash encaissé net, fenêtre 90 jours, plafond 50 K€/an, sortie possible à M4), (3) six mois de trésorerie devant soi. Deux configurations de lancement sont chiffrées : en **configuration organique** (opérateur seul, sans budget), 12-20 clients et 100-300 K€ encaissés en année 1 ; en **configuration scale** — celle retenue par le commanditaire : 1 000 €/jour de publicité vidéo (YouTube, Google Ads, LinkedIn, Instagram), 6-8 appels qualifiés/jour, équipe de livraison dimensionnée pour 300 clients simultanés — le funnel modélisé produit 25-66 signatures/mois (central 40) pour un CAC de ~760 € **remboursé par le setup dès la signature**, soit **3,3 à 5,4 M€ de CA en année 1** selon le ramp, 9,9-11,3 M€ en année 2, et ~10,5 M€/an à pleine capacité avec un EBITDA cible de 61 % — un plan qui reste à 45 % d'EBITDA même si un client sur deux seulement atteint l'objectif de la thèse (test de robustesse, §6.9).
 
-**Le positionnement** : « le partenaire de croissance qui ne gagne que si vous gagnez » — skin in the game contractuel, transparence radicale (SAS française à comptes publics, prix affiché publiquement), sélectivité assumée. Chaque pilier prend le contre-pied d'un red flag documenté du marché : c'est un positionnement que les incumbents ne peuvent pas copier sans se renier.
+**Le positionnement** : « l'accompagnement qui ne gagne que si vous gagnez » — skin in the game contractuel, transparence radicale (SAS française à comptes publics, prix affiché publiquement), sélectivité assumée. Chaque pilier prend le contre-pied d'un red flag documenté du marché : c'est un positionnement que les incumbents ne peuvent pas copier sans se renier.
 
 ## 1.2 Les cinq découvertes qui fondent la décision
 
@@ -36,17 +36,17 @@
 
 **3. La demande a basculé de la méthode au résultat.** Signal de marché majeur : TheBBoost arrête en 2026 son programme phare (~2 000 clients à 1 997 €) parce que « les clients veulent une promesse de résultat tangible. Pas une méthode, pas du contenu. Un résultat. » ([thebboost.fr](https://www.thebboost.fr/pivot-thebboost-2026/)). En face : défiance record (50-60 % d'anomalies aux contrôles DGCCRF influenceurs, enquêtes de presse en série, codes « Dubaï/screenshot Stripe » devenus marqueurs de risque). L'inversion du risque est exactement ce que ce marché demande et que personne n'offre.
 
-**4. Le modèle hybride gagne sur la conversion, pas sur le panier — et c'est suffisant.** La modélisation (sensibilité complète en §6) montre : EV de 16,8 K€/client (central, 12,5 %) contre 25 K€ cash — par client, l'incumbent gagne. Mais à flux de leads égal, l'inversion du risque fait converger ~2,3× plus de clients (close 28 % vs 12 %) : **+57 % de revenu par 100 appels et dépassement durable du modèle cash au mois 12**. Pour un entrant sans track record — à qui personne ne paiera 25 K€ upfront — c'est le seul chemin d'entrée rationnel. Les deux paramètres qui peuvent tuer le modèle sont pilotables : le mix de réussite clients (d'où la qualification) et le taux de collecte du % (d'où l'attribution contractuelle).
+**4. L'économie du modèle est démontrée à deux niveaux de prudence.** En calibrage marché conservateur (mix de réussite 30/45/25, §6.1-6.8), l'EV est de 19,2 K€/client à 15 % — et le modèle gagne déjà par la conversion (~2,5× le close du 25 K€ cash). En scénario opérationnel du commanditaire (thèse de service : client porté de 5-10 à 25-35 K€/mois en ~4 mois, §6.9), **un client rapporte 31,8-38,5 K€/an** (44,4 K€ à collecte pleine), le setup rembourse le CAC dès la signature, et le plan atteint 61 % d'EBITDA à pleine capacité — **en restant à 45 % si un client sur deux seulement suit la thèse, et à 33 % à 30 %** (test de robustesse F4). Les deux paramètres qui pilotent tout : le mix de réussite clients (d'où la qualification stricte) et le taux de collecte du % (d'où l'attribution contractuelle).
 
 **5. Le marché est assez grand, pas infini.** TAM francophone de l'accompagnement business high-ticket : 80-200 M€/an (central 120-150 M€, double approche réconciliée) ; SAM de l'offre hybride : 10-60 M€/an ; SOM : 0,1-0,3 M€ en année 1. La vraie rareté est le prospect QUALIFIÉ (8 000-34 000 comptes à baseline suffisante) — le GTM recommandé (LinkedIn + podcasts + outbound chirurgical, pas de funnel Reels/setter) est conçu pour qualifier autant que pour acquérir.
 
 ## 1.3 L'offre en résumé (construction complète en §8)
 
-**« Palier »** (nom de travail) — accompagnement done-with-you 12 mois vers 30-50 K€/mois : diagnostic et refonte d'offre/pricing, système d'acquisition adapté au canal du client, cadence hebdo, systématisation de la vente. **5 000 € d'entrée** (finance la livraison des 4 premiers mois) **+ 12,5 % du cash incrémental encaissé** au-dessus de la baseline contractuelle (moyenne 3 mois pré-signature), mesuré par accès Stripe lecture seule, net de remboursements, **plafonné à 45 K€**, avec **sortie possible à M4** — deux clauses qu'aucun concurrent n'offre. Le value stack n'empile pas des « valeurs » fictives mais six engagements vérifiables, chacun étant un red flag du marché inversé (contrat relisible par avocat, comptes publics, prix affiché, plafond, sortie, sélectivité). Côté client, le downside en cas d'échec est divisé par ~5 (5,2 K€ vs 25 K€) ; en cas de succès fort il paie ~31 K€ — plus cher que le cash — et c'est assumable : « si vous nous payez plus que 25 K€, c'est que vous avez encaissé plus de 200 K€ de plus ».
+**« Palier »** (nom de travail) — accompagnement done-with-you 12 mois pour porter le client de 5-10 K€/mois à 25-35 K€/mois : diagnostic et refonte d'offre/pricing, système d'acquisition adapté au canal du client, cadence hebdo, systématisation de la vente. **5 000 € de setup** (rembourse le CAC dès la signature et finance la livraison initiale) **+ 15 % du cash incrémental encaissé** au-dessus de la baseline contractuelle (moyenne 3 mois pré-signature), mesuré par accès Stripe lecture seule, net de remboursements, **plafonné à 50 K€/an**, avec **sortie possible à M4** — deux clauses qu'aucun concurrent n'offre. Le value stack n'empile pas des « valeurs » fictives mais six engagements vérifiables, chacun étant un red flag du marché inversé (contrat relisible par avocat, comptes publics, prix affiché, plafond, sortie, sélectivité). Côté client, le downside en cas d'échec est divisé par ~5 (~5,3 K€ vs 25 K€) ; en trajectoire de thèse il paie 36,5-44,4 K€ — plus cher que le cash — et c'est assumable : « si vous nous payez plus que 25 K€, c'est que vous avez encaissé plus de 200 K€ de plus ».
 
 ## 1.4 Ce qui ferait échouer le projet (à surveiller dès le mois 1)
 
-Par ordre d'impact modélisé : (1) accepter de mauvais clients — un « échec » rapporte 5,2 K€ et consomme la capacité d'un « fort » à 40 K€ ; (2) une attribution contestée — passer de 85 % à 60 % de collecte coûte plus cher que de baisser le taux de 12,5 % à 10 % ; (3) le creux de trésorerie des mois 1-8 ; (4) l'assimilation réputationnelle aux vendeurs de rêve — sur un marché sous surveillance (DGCCRF, enquêteurs), le positionnement transparent ne tolère AUCUNE exagération ; (5) à 12-24 mois, la copie par un acteur établi — la défense est la vitesse de constitution d'études de cas nommées et vérifiables.
+Par ordre d'impact modélisé : (1) accepter de mauvais clients — un « échec » rapporte 5,2 K€ et consomme la capacité d'un « fort » à 40 K€ ; (2) une attribution contestée — passer de 85 % à 60 % de collecte coûte plus cher que de baisser le taux de 15 % à 12,5 % ; (3) le creux de trésorerie des mois 1-8 ; (4) l'assimilation réputationnelle aux vendeurs de rêve — sur un marché sous surveillance (DGCCRF, enquêteurs), le positionnement transparent ne tolère AUCUNE exagération ; (5) à 12-24 mois, la copie par un acteur établi — la défense est la vitesse de constitution d'études de cas nommées et vérifiables.
 
 *Le détail : marché (§2), demande et personas (§3), 19 fiches concurrents (§4), triangulation des revenus (§5), unit economics et attribution (§6), positionnement (§7), offre (§8), go-to-market (§9), roadmap/risques/KPIs (§10), méthodologie et limites (§11).*
 
@@ -105,7 +105,7 @@ Les deux chemins convergent vers un high-ticket francophone de l'ordre de **100-
 - Année 1 : 12-20 clients signés × (5 K€ + perf moyenne 5-12 K€ encaissée avec décalage) → **100-300 K€ encaissés**.
 - Années 2-3 : 20-35 clients actifs cumulés + queue de perf des cohortes précédentes → **350-900 K€/an**.
 - Soit ~1-2 % du SAM central : ambitieux mais pas hors distribution (Squared fait ~0,7-1,6 M€/an avec 3-5 salariés, cf. §4.11).
-- **Configuration scale du commanditaire** (1 K€/jour de pub, équipe 300 clients, rendement 44 K€ HT/an — §9.6) : 4,0-6,5 M€ en année 1 selon le ramp, 13,2 M€/an à pleine capacité — soit 40-50 % du SAM central : un objectif de **leadership de segment** (année 3-5), qui suppose que le SAM se réalise en haut de fourchette ou s'élargisse (montée du panier vers le persona 3, extension géographique) ; à afficher comme ambition jalonnée, pas comme extrapolation.
+- **Configuration scale du commanditaire** (1 K€/jour de pub, équipe 300 clients, offre 5 K€ + 15 %, thèse de service ×3-4 — §6.9 et §9.6) : 3,3-5,4 M€ en année 1 selon le ramp, ~10,5 M€/an à pleine capacité — soit 30-40 % du SAM central : un objectif de **leadership de segment** (année 3-5), qui suppose que le SAM se réalise en haut de fourchette ou s'élargisse (montée du panier vers le persona 3, extension géographique) ; à afficher comme ambition jalonnée, pas comme extrapolation.
 
 ## 2.5 Dynamique et tendances (2024-2026)
 
@@ -354,7 +354,7 @@ Toutes les tables citées (T1-T10) sont reproduites intégralement en annexe tec
 
 ## 6.1 Réponse d'abord
 
-Le modèle hybride est **viable, mais pas pour la raison intuitive**. Par client, il rapporte MOINS que le 25 K€ cash (EV ≈ 16,8 K€ vs 25 K€ en scénario central à 12,5 %). Il gagne sur trois autres terrains : (1) **la conversion** — à flux de leads égal, il signe ~2,3× plus de clients (inversion du risque), ce qui fait +57 % d'EV par 100 appels et un dépassement durable du modèle cash dès le mois 12 ; (2) **la vendabilité** pour un entrant sans track record — personne ne paie 25 K€ à un inconnu, beaucoup risquent 5 K€ ; (3) **la LTV des clients gagnants** (~40 K€ avec renouvellement). Ses trois conditions de viabilité : une **qualification d'entrée stricte** (baseline ≥ 4-6 K€/mois), une **mécanique d'attribution contractualisée avant signature**, et **6 mois de trésorerie** pour traverser le creux de cash initial.
+Le modèle hybride est **viable, mais pas pour la raison intuitive**. En calibrage marché conservateur, il rapporte MOINS que le 25 K€ cash par client (EV ≈ 16,8 K€ à 12,5 % et 19,2 K€ au taux retenu de 15 %, vs 25 K€) — le plan financier du scénario opérationnel retenu (5 K€ + 15 %, thèse de service ×3-4) est en §6.9. Il gagne sur trois autres terrains : (1) **la conversion** — à flux de leads égal, il signe ~2,3× plus de clients (inversion du risque), ce qui fait +57 % d'EV par 100 appels et un dépassement durable du modèle cash dès le mois 12 ; (2) **la vendabilité** pour un entrant sans track record — personne ne paie 25 K€ à un inconnu, beaucoup risquent 5 K€ ; (3) **la LTV des clients gagnants** (~40 K€ avec renouvellement). Ses trois conditions de viabilité : une **qualification d'entrée stricte** (baseline ≥ 4-6 K€/mois), une **mécanique d'attribution contractualisée avant signature**, et **6 mois de trésorerie** pour traverser le creux de cash initial.
 
 ## 6.2 Hypothèses du modèle (explicites, à challenger)
 
@@ -430,6 +430,29 @@ C'est LE point de défaillance du modèle (2e paramètre du tornado ; « la comp
 - **Volume d'équilibre** : EV 16,8 K€/client → ~18 clients/an pour égaler 12 ventes cash à 25 K€ (300 K€). Avec un plafond solo de 10-12 clients actifs, l'objectif d'année 1 est 12-20 signatures, soit 100-300 K€ encaissés (cohérent avec le SOM, §2.4).
 - **Discipline de portefeuille** : chaque client « échec » évité (qualification) vaut ~11,6 K€ d'EV relative (différence échec→moyen) ; c'est le levier n°1 du modèle, avant le marketing.
 
+## 6.9 Le plan financier retenu : 5 K€ + 15 %, thèse de service ×3-4 (section décisionnelle)
+
+Suite aux arbitrages du commanditaire, l'offre retenue est **5 000 € de setup + 15 % du cash incrémental encaissé** (sans mensualité), adossée à sa thèse de service : porter le client de 5-10 K€/mois à **25-35 K€/mois minimum en ~4 mois** (thèse opérationnelle interne — statut d'hypothèse à démontrer publiquement sur les 5-10 premiers clients, cf. F0). Plan financier complet, reproductible : [findings/ws-finance-plan.md](../findings/ws-finance-plan.md) ([models/finance_scenario.py](../models/finance_scenario.py)). L'essentiel :
+
+**Par client (année 1, collecte 85 %)** : trajectoire 5→25 K€/mois = 210 K€ de cash incrémental → l'agence encaisse **31,8 K€** ; trajectoire 10→35 K€ = 262,5 K€ → **38,5 K€** (44,4 K€ à collecte parfaite — cohérent avec les 44 K€ HT/an de l'étude interne). Le client, lui, gagne 210-262 K€ en payant 32-38 K€ : **ROI client +550 à +580 %** — l'alignement qui fait vendre l'offre et tenir les renouvellements (année 2 perf-only : 30,6-38,3 K€/client).
+
+**Le moteur (1 K€/jour)** : 25-66 signatures/mois (central 40), CAC 460-1 194 € (central **762 €**) — **le setup de 5 K€ rembourse le CAC dès la signature** : l'acquisition s'autofinance client par client. LTV/CAC 42-51× en thèse pleine, encore 16× dans le pire scénario de robustesse.
+
+**Trajectoires (thèse pleine, 85 %)** : ramp prudent → 210 actifs fin M12, **CA an 1 : 3,32 M€**, an 2 : 9,93 M€ ; ramp volontariste → 300 actifs fin M12, **CA an 1 : 5,39 M€**, an 2 : 11,3 M€. Point mort opérationnel : M2-M4. **P&L à pleine capacité : 10,5 M€ de CA, EBITDA 61 %** (pub 3,5 %, vente 10 %, livraison 13,3 %, ops+management 12,3 %).
+
+**Le test de robustesse — la table à montrer aux associés** (hypothèses dégradées : les clients hors-thèse finissent 50 % « partiels » à +8 K€/mois, 50 % « échecs » sortis à M4) :
+
+| Part des clients atteignant 25-35 K€ | EV/client an 1 | CA à 300 actifs | EBITDA |
+|---|---|---|---|
+| 100 % (thèse pleine) | 35,1 K€ | 10,54 M€ | **61 %** |
+| 70 % | 27,8 K€ | 8,34 M€ | **53 %** |
+| 50 % | 22,9 K€ | 6,87 M€ | **45 %** |
+| 30 % | 18,0 K€ | 5,40 M€ | **33 %** |
+
+Lecture décisionnelle : **la thèse n'a pas besoin d'être vraie pour que l'entreprise soit très rentable — elle a besoin d'être vraie pour atteindre le scénario haut et alimenter la machine de preuve.** Même si un client sur deux seulement atteint l'objectif, l'EBITDA reste à 45 % ; même à 30 %, chaque client signé rapporte 18 K€ pour ~760 € d'acquisition. Sous ~30 % de réussite, le facteur limitant devient la réputation (études de cas, renouvellements), pas le P&L. Les deux protections structurelles de la thèse : la sélection à l'entrée (le funnel produit 40 signatures possibles pour 25 nécessaires → on choisit les meilleures baselines) et les 4 KPI de pilotage mensuel (rendement réel/client, ratio clients/coach ≥ 12-15, collecte ≥ 85 %, coût/call ≤ 170 €).
+
+Cohérence avec le reste de la section : le modèle marché-calibré (§6.1-6.8, mix 30/45/25) reste le **stress-test de référence** — il correspond peu ou prou à la ligne « 30 % » du tableau ci-dessus, et le plan reste rentable à ce niveau. L'écart entre les deux lectures est exactement ce que les 5-10 premiers clients doivent trancher (jauges M4-M6, §10.2).
+
 ---
 
 # 7. Positionnement & white space
@@ -451,7 +474,7 @@ Sur les 19 acteurs profilés, **aucun n'affiche publiquement une facturation au 
 Constats structurants :
 1. **L'hybride à inversion du risque réelle n'existe nulle part — même en privé.** Les traces de performance observées sont soit périphériques, soit sans transfert de risque : Cherifi pratique un hybride **non affiché** dont le fixe (~45 K€/an) dépasse à lui seul le prix des offres cash du marché — le client porte tout le risque, la perf est un bonus pour le vendeur (donnée 1re main, source confidentielle, [addendum](../findings/addendum-cherifi-firsthand.md)) ; Nezzar facture les *coachs* à la performance sur le closing seulement (10-20 % du cash collecté — [closing.agency](https://closing.agency/)) ; Sommetis garantit un *volume d'appels*, pas un résultat business ([sommetis.com](https://sommetis.com/)) ; Hollaender a *abandonné* la performance pure au profit du cash (§4.8) ; Blanco enseigne un modèle 40-50 % de rev-share… qu'il vend cash ([Skool](https://www.skool.com/incubateurgrowthoperating-5156/about)).
 2. **Le vocabulaire a pris de l'avance sur les contrats affichés.** « Business Partner » (Cherifi), « Partenariat » (Rigottier), « growth partner » : rien de tout cela n'est un engagement public sur le résultat, vérifié fiche par fiche (§4). L'écart entre le mot et le contrat affiché est une vulnérabilité exploitable : le premier acteur qui rend le partenariat *contractuel et public* retourne le vocabulaire du marché contre lui. La pratique privée de Cherifi confirme au passage que ce pricing SE VEND — la demande est prouvée par l'exemple.
-3. **Le prix caché est la norme** : 15 fiches sur 19 sans prix public (exceptions : Rigottier, Ndiaye partiellement, Honoré, Nezzar école). Afficher publiquement « 5 000 € + 12,5 % du cash incrémental encaissé » est en soi différenciant.
+3. **Le prix caché est la norme** : 15 fiches sur 19 sans prix public (exceptions : Rigottier, Ndiaye partiellement, Honoré, Nezzar école). Afficher publiquement « 5 000 € + 15 % du cash incrémental encaissé » est en soi différenciant.
 4. **L'opacité juridique est la norme du haut de marché** : Michaud (FZCO Dubaï), Clouet (Dubaï, zéro entité publiée), Henry (FZCO Dubaï), Blanco (FZ LLE), Rocca (Fujairah), Nezzar (Irlande micro), Rigottier (Estonie), Hollaender (Dubaï + Hong Kong). Une SAS française à comptes publiés prend le contre-pied exact des red flags documentés par la presse et la DGCCRF (§3.4, §5).
 
 ## 7.3 Lecture 5 forces : attractivité structurelle
@@ -466,7 +489,7 @@ Constats structurants :
 
 ## 7.4 Énoncé de positionnement recommandé
 
-> **Le partenaire de croissance qui ne gagne que si vous gagnez.** Accompagnement de coachs, consultants et infopreneurs établis (≥5 K€/mois) vers 30-50 K€/mois : 5 000 € d'entrée, puis 12,5 % du cash incrémental réellement encaissé — mesuré contractuellement, sur une entité française à comptes publics, avec prix et méthode affichés.
+> **L'accompagnement qui ne gagne que si vous gagnez.** Coachs, consultants et infopreneurs établis (≥5 K€/mois) portés à 25-35 K€/mois : 5 000 € de setup, puis 15 % du cash incrémental réellement encaissé — mesuré contractuellement, sur une entité française à comptes publics, avec prix et méthode affichés.
 
 Trois piliers, chacun adossé à un fait de marché établi par l'étude : (1) skin in the game contractuel (colonne vide du marché, §7.2) ; (2) transparence radicale — prix public, entité FR, baseline et attribution écrites (contre-pied des red flags §5) ; (3) sélectivité assumée — barre d'entrée à 4-6 K€/mois de baseline, du modèle économique (§6.5) transformée en signal marketing (« nous refusons 7 candidats sur 10 »), comme le pratiquent déjà Nezzar (« 80 % des demandes refusées ») et Ndiaye (filtre 15 K€ de CA).
 
@@ -476,7 +499,7 @@ Trois piliers, chacun adossé à un fait de marché établi par l'étude : (1) s
 
 ## 8.1 Réponse d'abord
 
-L'offre recommandée — nom de travail **« Palier »** — est un accompagnement done-with-you de 12 mois pour établis en plateau (baseline ≥ 5 K€/mois), facturé **5 000 € d'entrée + 12,5 % du cash incrémental encaissé au-dessus de la baseline contractuelle** (15 % si baseline < 8 K€/mois), plafonné contractuellement, avec sortie possible à M4. Scorée sur l'équation de valeur, elle bat l'incumbent 25 K€ cash sur 3 des 4 termes — et le 4e (dream outcome) est neutralisé par l'identité de promesse. Sa force ne vient pas d'un empilement de bonus mais d'un déplacement structurel : **le risque change de camp, et c'est vérifiable dans le contrat, pas dans le discours.**
+L'offre retenue — nom de travail **« Palier »** — est un accompagnement done-with-you de 12 mois pour établis en plateau (baseline ≥ 5 K€/mois), avec pour promesse opérationnelle de porter le client à 25-35 K€/mois en ~4 mois, facturé **5 000 € de setup + 15 % du cash incrémental encaissé au-dessus de la baseline contractuelle**, plafonné contractuellement (50 K€/an), avec sortie possible à M4. Scorée sur l'équation de valeur, elle bat l'incumbent 25 K€ cash sur 3 des 4 termes — et le 4e (dream outcome) est neutralisé par l'identité de promesse. Sa force ne vient pas d'un empilement de bonus mais d'un déplacement structurel : **le risque change de camp, et c'est vérifiable dans le contrat, pas dans le discours.**
 
 ## 8.2 Rappel du cadre : l'équation de valeur
 
@@ -484,14 +507,14 @@ Valeur perçue = (Dream Outcome × Perceived Likelihood of Achievement) ÷ (Time
 
 ## 8.3 Scoring comparatif : « Palier » vs incumbent 25 K€ cash
 
-| Terme de l'équation | Incumbent 25 K€ cash (pratique dominante, §4) | Offre « Palier » 5 K€ + 12,5 % | Déplacement |
+| Terme de l'équation | Incumbent 25 K€ cash (pratique dominante, §4) | Offre « Palier » 5 K€ + 15 % | Déplacement |
 |---|---|---|---|
 | **Dream Outcome** | « 100 K€/mois », 7 chiffres — promesses maximales mais génériques | Passage documenté du plateau (5-15 K€) à 30-50 K€/mois — promesse plus modeste EN APPARENCE | ≈ égalité voulue : sur un marché à ~50-60 % d'anomalies DGCCRF, la promesse maximale est devenue contre-productive (§3.4) ; le dream outcome crédible bat le dream outcome maximal |
 | **Perceived Likelihood** | Plombée : paiement intégral avant tout résultat, prix caché, témoignages invérifiables, vendeur à Dubaï sans comptes | **Maximisée structurellement** : le vendeur ne gagne vraiment que si le client encaisse ; baseline et attribution écrites au contrat ; entité FR à comptes publics ; prix affiché publiquement | **+++ (le cœur de l'offre)** |
 | **Time Delay** | 12 mois d'accompagnement, ROI ressenti à la fin | Identique sur le résultat, MAIS le client ne décaisse que 5 K€ avant de voir les premiers effets — le « temps avant d'avoir raison d'avoir payé » est divisé | ++ |
 | **Effort & Sacrifice** | 25 K€ de trésorerie immobilisée (2-5 mois de CA du persona 2 !) + effort d'implémentation | 5 K€ (0,3-1 mois de CA) + le même effort d'implémentation ; sacrifice financier initial divisé par 5 | ++ |
 
-Preuve chiffrée côté client (modèle T8, §6.6) : en cas d'échec, il perd 5,2 K€ au lieu de 25 K€ (downside ÷5) ; en cas de succès moyen (63 K€ incrémentaux), son ROI est de +389 % contre +152 % en cash ; en cas de succès fort, il paie ~31 K€ — plus cher que 25 K€ — mais sur 210 K€ encaissés en plus. Le seul scénario où l'incumbent est « moins cher » est celui où le client a gagné 200 K€+ : objection retournable en argument de vente (« mon bonus est indexé sur votre meilleure année »).
+Preuve chiffrée côté client (à 15 % — modèles §6.6 et §6.9) : en cas d'échec, il perd ~5,3 K€ au lieu de 25 K€ (downside ÷5) ; en cas de succès moyen (63 K€ incrémentaux), son ROI est de +336 % contre +152 % en cash ; en trajectoire de thèse (210-262 K€ encaissés en plus), il paie 36,5-44,4 K€ — plus cher que 25 K€ — pour un ROI de +475 à +580 %. Le seul scénario où l'incumbent est « moins cher » est celui où le client a gagné 200 K€+ : objection retournable en argument de vente (« mon bonus est indexé sur votre meilleure année »).
 
 ## 8.4 Structure de l'offre
 
@@ -505,13 +528,13 @@ Preuve chiffrée côté client (modèle T8, §6.6) : en cas d'échec, il perd 5,
 5. À partir de M6 : délégation/équipe pour tenir la croissance.
 
 **Mécanique financière** :
-- 5 000 € à la signature (couvre le coût de livraison de M1-M4 : le fixe paie le travail, le variable paie la performance) ;
-- 12,5 % du cash incrémental encaissé au-dessus de la baseline (moyenne 3 mois pré-signature, écrite au contrat), mesuré par accès Stripe lecture seule + registre partagé (§6.7), facturé mensuellement à M+1, net de remboursements ;
-- **Plafond contractuel : 45 000 € de perf totale** (rassure le client qui réussit très fort ; borne le débat « je vous ai trop payé » ; ne coûte presque rien en EV : seuls ~5 % des clients l'atteindraient) ;
+- 5 000 € de setup à la signature (rembourse le coût d'acquisition dès le jour 1 — CAC modélisé ~760 €, §6.9 — et finance la livraison initiale : le fixe paie le travail, le variable paie la performance) ;
+- **15 % du cash incrémental encaissé** au-dessus de la baseline (moyenne 3 mois pré-signature, écrite au contrat), mesuré par accès Stripe lecture seule + registre partagé (§6.7), facturé mensuellement à M+1, net de remboursements ;
+- **Plafond contractuel : 50 000 €/an de perf** (rassure le client qui réussit très fort ; borne le débat « je vous ai trop payé » ; en thèse pleine, la perf année 1 est de 26,8-33,5 K€ — le plafond ne mord que sur les trajectoires exceptionnelles) ;
 - **Clause de sortie à M4** : si le client juge le travail insuffisant, il sort ; la perf reste due 90 jours sur le pipeline construit (fenêtre d'attribution, §6.7). Personne d'autre sur le marché n'offre de sortie à M4 (§4 : « aucun remboursement » est la norme — Squared, Entrepreneurs.com, Piccinini) ;
-- Option baseline basse (5-8 K€/mois) : 15 % au lieu de 12,5 % — aligne le taux sur le risque (§6.3).
+- Option de repli si la collecte perf déçoit en réel (jauges M4-M6) : ajout d'une mensualité (1 995 €/mois) contre baisse du taux à 10 % — bascule prévue au contrat-type, pas improvisée.
 
-**Variante « Palier Scale » (configuration équipe + acquisition payante, §9.6).** Quand le rendement cible par client est de 44 K€ HT/an (donnée interne du commanditaire), le mix évolue : **5 000 € d'entrée + 1 995 €/mois (12 mois) + 10 % du cash incrémental encaissé**, plafond et sortie M4 maintenus. Fixe année 1 ≈ 28,9 K€ + perf ≈ 5-21 K€ selon l'archétype → blended ≈ 38-46 K€/an, cohérent avec la cible. L'inversion du risque relative reste entière face au standard du marché (donnée 1re main : 15 K€ + 2 500 €/mois + 10 %) : entrée 3× inférieure, mensualité moindre, sortie contractuelle, plafond — aucun acteur n'offre cette combinaison. Le close rate attendu se tasse légèrement vs le 5 K€ + 12,5 % pur (engagement mensuel visible) : 18-28 % retenus dans le funnel scale au lieu de 20-38 %.
+**Pourquoi 5 K€ + 15 % sec (sans mensualité) est le bon choix en configuration scale.** Le rendement cible de 44 K€ HT/an par client (étude interne du commanditaire) est atteint par la performance seule dès lors que la thèse de service tient : 15 % × 262 K€ d'incrément = 39,4 K€ + setup = 44,4 K€ (trajectoire 10→35 K€/mois, collecte pleine — §6.9-F1). Ce mix maximise le close rate (aucun engagement mensuel visible : 20-32 % retenus dans le funnel scale), rend l'offre imbattable face au standard du marché (donnée 1re main : 15 K€ + 2 500 €/mois + 10 % = ~45 K€/an de fixe côté client), et aligne 100 % de l'upside sur le résultat — l'argument de vente le plus pur possible. Sa contrepartie assumée : le revenu dépend de la thèse de service, d'où le test de robustesse (§6.9-F4 : EBITDA 45 % même à moitié de la thèse) et l'option de repli mensualisée ci-dessus.
 
 **Le nom.** « Palier » (nom de travail) : dit le problème (le plateau) et la promesse (le franchir) sans emprunter les codes discrédités (« scaling », « 7 figures »). Alternatives testables en marché : « Incrément » (dit la base de calcul — pédagogique), « Contrepartie » (dit le modèle). Décision à prendre en test de vente, pas sur le papier.
 
@@ -521,8 +544,8 @@ L'usage dominant du value stack (« valeur totale : 74 000 €, votre prix : 4 9
 
 1. « Notre contrat écrit la baseline et la formule — vous pouvez le faire relire à votre avocat avant de signer. »
 2. « Nos comptes sont publics » (SAS française, lien annuaire-entreprises dans la page de vente).
-3. « Notre prix est sur cette page » (5 000 € + 12,5 %, publiquement — quasi unique sur le marché, §7.2).
-4. « Notre bonus est plafonné : au-delà de 45 K€, tout l'incrément est pour vous. »
+3. « Notre prix est sur cette page » (5 000 € + 15 %, publiquement — quasi unique sur le marché, §7.2).
+4. « Notre bonus est plafonné : au-delà de 50 K€/an, tout l'incrément est pour vous. »
 5. « Vous pouvez partir à M4. »
 6. « Nous refusons les clients dont la base ne permet pas le résultat » (+ les 3 critères publics).
 
@@ -530,7 +553,7 @@ Chaque ligne est un red flag du marché, inversé et rendu contractuel. C'est le
 
 ## 8.6 Objections prévisibles et réponses (design, pas script)
 
-- « 12,5 % pour toujours ? » → Non : 12 mois + fenêtre de 90 jours, plafonné à 45 K€.
+- « 15 % pour toujours ? » → Non : 12 mois + fenêtre de 90 jours, plafonné à 50 K€/an.
 - « Comment savez-vous ce qui vient de vous ? » → On ne le prétend pas ligne à ligne : baseline contractuelle simple, tout l'au-dessus compte — dans les deux sens. Simplicité contre contestabilité (arbitrage assumé, §6.7).
 - « Et si je fais un gros mois exceptionnel non lié à vous ? » → C'est le prix de la simplicité, compensé par le plafond et la sortie M4 ; en médiane le client hybride paie moins que 25 K€ (T8).
 - « Pourquoi pas 100 % à la performance ? » → Parce que le fixe finance la livraison réelle des 4 premiers mois ; le 100 % perf sélectionne les vendeurs qui n'ont rien à perdre — c'est le modèle qui a produit les dérives documentées de l'operating (§4, Blanco). Le consensus des praticiens durables est l'hybride ([Consultor](https://www.consultor.fr/articles/les-success-fees-n-ont-pas-la-cote), §6.7).
@@ -549,7 +572,7 @@ Sources détaillées : [findings/ws9-gtm.md](../findings/ws9-gtm.md).
 
 Deux moteurs, deux configurations — et le commanditaire a les moyens de la seconde :
 - **Configuration organique** (entrant seul, sans budget) : GTM de preuve à trois étages — LinkedIn + long-form, podcasts en invité, outbound chirurgical (détaillé en 9.4). 15-25 appels/mois, 12-20 signatures/an. C'est le plancher sans risque capital.
-- **Configuration scale** (retenue par le commanditaire, §9.6) : moteur payant à **1 000 €/jour de vidéo** (YouTube, Google Ads, LinkedIn, Instagram) produisant 6-8 appels qualifiés/jour, adossé à une équipe de livraison dimensionnée pour **300 clients simultanés**. Le funnel modélisé : 23-58 signatures/mois (central 35), CAC ~870 €, LTV/CAC ~51× — l'acquisition n'est plus la contrainte, la capacité et la tenue du rendement client le deviennent.
+- **Configuration scale** (retenue par le commanditaire, §9.6) : moteur payant à **1 000 €/jour de vidéo** (YouTube, Google Ads, LinkedIn, Instagram) produisant 6-8 appels qualifiés/jour, adossé à une équipe de livraison dimensionnée pour **300 clients simultanés**. Le funnel modélisé : 25-66 signatures/mois (central 40), CAC ~760 € remboursé par le setup dès la signature, LTV/CAC 42-51× — l'acquisition n'est plus la contrainte, la capacité et la tenue de la thèse de service le deviennent.
 
 Dans les deux cas, la couche de preuve organique (9.4) reste OBLIGATOIRE : c'est elle qui fait convertir la pub. Une VSL à 1 K€/jour sans études de cas nommées ni transparence contractuelle reproduirait le funnel Michaud — la pièce la plus faible de sa machine (§4.1) — et brûlerait le budget contre la défiance documentée du marché (§3.4). **La pub amplifie la confiance, elle ne la remplace pas.**
 
@@ -576,7 +599,7 @@ Implication : un funnel ads + setter + closer coûte ~4-7 K€/mois de structure
 ## 9.4 Plan d'acquisition recommandé (année 1)
 
 **Étage 1 — LinkedIn + long-form (fondation, dès M1).**
-Le persona 2 « établi » est plus dense sur LinkedIn que sur Instagram (les acteurs qui le ciblent avec succès y opèrent : Scalezia 77 K abonnés, Thibault Louis, Augiat 11,5 K). Cadence réaliste : 3-4 posts/semaine (études de cas anonymisées puis nommées, la mécanique d'attribution expliquée, les chiffres de cette étude — le contenu « voici pourquoi je ne prends que 12,5 % sur ce que j'encaisse réellement » est inédit sur le marché) + 1 contenu long/semaine (newsletter ou YouTube long-form, en cohérence avec la bascule anti-slop documentée). Le pré-lancement idéal : documenter publiquement la construction de l'offre (« build in public », registre de preuve).
+Le persona 2 « établi » est plus dense sur LinkedIn que sur Instagram (les acteurs qui le ciblent avec succès y opèrent : Scalezia 77 K abonnés, Thibault Louis, Augiat 11,5 K). Cadence réaliste : 3-4 posts/semaine (études de cas anonymisées puis nommées, la mécanique d'attribution expliquée, les chiffres de cette étude — le contenu « voici pourquoi je ne prends que 15 % sur ce que j'encaisse réellement » est inédit sur le marché) + 1 contenu long/semaine (newsletter ou YouTube long-form, en cohérence avec la bascule anti-slop documentée). Le pré-lancement idéal : documenter publiquement la construction de l'offre (« build in public », registre de preuve).
 
 **Étage 2 — Podcasts en invité (crédibilité, M2-M12).**
 Canal sous-coté à coût nul (findings WS9) : les podcasts business FR de milieu de spectre cherchent des invités avec un angle contrarien et des chiffres. L'angle est tout trouvé : « j'ai triangulé les revenus réels des growth partners francophones » + « pourquoi je facture à la performance ». Cibles : podcasts du répertoire d'influence du persona 2 (§3.7) hors mastodontes en année 1. Objectif : 1-2 passages/mois.
@@ -600,22 +623,22 @@ Modélisation complète et reproductible : [findings/ws-scale-model.md](../findi
 
 **Le funnel mensuel modélisé** (30 417 €/mois de pub) :
 
-| Scénario | Appels bookés/mois | Coût/appel | Tenus (show-up 70-85 %) | Signatures (close 18-28 %) | CAC |
+| Scénario | Appels bookés/mois | Coût/appel | Tenus (show-up 70-85 %) | Signatures (close 20-32 %) | CAC |
 |---|---|---|---|---|---|
-| Bas | 182 | 167 € | 128 | **23** | 1 323 € |
-| Central | 213 | 143 € | 160 | **35** | 866 € |
-| Haut | 243 | 125 € | 207 | **58** | 525 € |
+| Bas | 182 | 167 € | 127 | **25** | 1 194 € |
+| Central | 213 | 143 € | 160 | **40** | 762 € |
+| Haut | 243 | 125 € | 207 | **66** | 460 € |
 
 Cohérence benchmark : le coût/appel implicite (125-167 €) est dans le haut de la fourchette observée sur la niche (40-150 €/appel, §9.3) — l'objectif 6-8 appels/jour est atteignable mais exige des créas vidéo performantes ; en cas de dérive à 250 €/appel, le volume tombe à ~4/jour → budgéter 2-3 mois d'itération créative avant le régime de croisière.
 
 **Les cinq conclusions structurantes du scénario scale** :
-1. **LTV/CAC ≈ 51× (central)** : à 44 K€/client/an pour ~870 € de CAC, l'acquisition cesse d'être la contrainte du business — même dégradé (CAC 2 000 €, rendement 35 K€), le ratio reste à 17×.
-2. **Le funnel SUR-remplit la capacité** : régime permanent soutenable = 300 ÷ 12 mois = 25 signatures/mois ; le funnel central en produit 35. Trois soupapes dans l'ordre : monter la part fixe, durcir la qualification (ce qui améliore le mix de réussite, paramètre n°1 du modèle §6.5), puis étendre l'équipe.
-3. **Le pont tarifaire vers 44 K€/an impose une composante mensuelle** : le 5 K€ + 12,5 % pur produit 16,8 K€ d'EV blended (§6.3). Le mix « **Palier Scale** » — 5 K€ d'entrée + 1 995 €/mois + 10 % perf — atteint ~34-40 K€ sur le client moyen et >50 K€ sur les forts (blended ≈ 38-46 K€), cohérent avec la donnée interne, tout en préservant le différenciateur : entrée 3× sous le standard du marché (donnée 1re main : 15 K€ + 2,5 K€/mois + 10 %), sortie M4, plafond. Détail en §8.4bis.
-4. **Trajectoire** : ramp prudent (recrutement progressif) → 210 clients actifs fin M12, ~4,0 M€ de CA an 1 ; ramp volontariste (équipe prête) → 300 actifs fin M12, ~6,5 M€ an 1 ; **pleine capacité = 13,2 M€/an**, saturation entre M13 et M26 selon le ramp.
-5. **Perspective marché à assumer devant des associés** : 13,2 M€ ≈ 40-50 % du SAM central de l'offre hybride (25-35 M€/an) et ferait de l'agence le n°1 francophone du segment (plus gros acteur vérifié du panel : ~10-19 M€/an, Entrepreneurs.com). La pleine capacité est un objectif d'année 3-5 qui suppose de prendre le leadership du segment — pas une extrapolation d'année 1.
+1. **LTV/CAC ≈ 42-51× (central)** : un client en thèse rapporte 31,8-38,5 K€/an (§6.9-F1) pour ~760 € de CAC — et le setup de 5 K€ rembourse l'acquisition dès la signature. Même dans le pire scénario de robustesse (30 % de réussite), le ratio reste à 16×.
+2. **Le funnel SUR-remplit la capacité** : régime permanent soutenable = 300 ÷ 12 mois = 25 signatures/mois ; le funnel central en produit 40. Trois soupapes dans l'ordre : monter la part fixe, durcir la qualification (ce qui améliore le mix de réussite, paramètre n°1 du modèle §6.5), puis étendre l'équipe.
+3. **Le rendement de 44 K€/an est porté par la thèse de service, pas par du fixe** : à 5 K€ + 15 %, un client porté de 10 à 35 K€/mois rapporte 44,4 K€ à collecte pleine (38,5 K€ à 85 % — §6.9-F1). Le mix reste le plus pur du marché (aucune mensualité visible → close maximal), 3× moins risqué à l'entrée que le standard observé en donnée 1re main (15 K€ + 2,5 K€/mois + 10 %) ; l'option mensualisée (1 995 €/mois + 10 %) est le repli contractuel prévu si la collecte déçoit (§8.4).
+4. **Trajectoire (thèse pleine, collecte 85 %)** : ramp prudent → 210 clients actifs fin M12, **CA an 1 : 3,32 M€**, an 2 : 9,93 M€ ; ramp volontariste → 300 actifs fin M12, **CA an 1 : 5,39 M€**, an 2 : 11,3 M€ ; **pleine capacité ≈ 10,5 M€/an**, point mort opérationnel dès M2-M4 (le setup autofinance l'acquisition).
+5. **Perspective marché à assumer devant des associés** : ~10,5 M€ ≈ 30-40 % du SAM central de l'offre hybride (25-35 M€/an) et ferait de l'agence le n°1 francophone du segment (plus gros acteur vérifié du panel : ~10-19 M€/an, Entrepreneurs.com). La pleine capacité est un objectif d'année 3-5 qui suppose de prendre le leadership du segment — pas une extrapolation d'année 1.
 
-**P&L indicatif à pleine capacité** (hypothèses affichées, à challenger) : pub 365 K€ (2,8 % du CA), commissions de vente 10 %, livraison 20 coachs/CSM à 15 clients/tête (1,4 M€), ops/outils/studio 500 K€, management 800 K€ → **EBITDA indicatif ~67 %**. Sensibilité : la marge tient tant que le rendement client reste ≥ 40 K€ ET le ratio de livraison ≥ 12-15 clients/tête (à 10 clients/tête et 35 K€/client : 54 %). **Garde-fou marché** : les acteurs FR vérifiables à l'échelle affichent 6-9 % de marge nette (Squared, Coudac) et le modèle volume+équipe le plus proche (Scalezia) déposait des pertes — la discipline de coûts est le risque d'exécution n°1 du scale, loin devant l'acquisition ; le pilotage mensuel du ratio clients/tête et du rendement réel est non négociable.
+**P&L indicatif à pleine capacité** (thèse pleine, collecte 85 % — hypothèses affichées, détail §6.9-F5) : pub 365 K€ (3,5 % du CA), commissions de vente 10 %, livraison 20 coachs/CSM à 15 clients/tête (1,4 M€), ops/outils/studio 500 K€, management 800 K€ → **EBITDA indicatif 61 %**. Robustesse : 53 % si 70 % des clients atteignent la thèse, 45 % à 50 %, 33 % à 30 % (§6.9-F4). **Garde-fou marché** : les acteurs FR vérifiables à l'échelle affichent 6-9 % de marge nette (Squared, Coudac) et le modèle volume+équipe le plus proche (Scalezia) déposait des pertes — la discipline de coûts est le risque d'exécution n°1 du scale, loin devant l'acquisition ; le pilotage mensuel du ratio clients/tête et du rendement réel est non négociable.
 
 ---
 
@@ -623,13 +646,13 @@ Cohérence benchmark : le coût/appel implicite (125-167 €) est dans le haut d
 
 ## 10.1 Verdict : GO CONDITIONNEL
 
-**GO** sur le lancement d'une activité de partenaire de croissance francophone en facturation hybride — **à trois conditions non négociables**, chacune établie par l'étude :
+**GO** sur le lancement d'une activité francophone d'accompagnement à résultats partagés — **à trois conditions non négociables**, chacune établie par l'étude :
 
 1. **Qualification d'entrée stricte** (baseline ≥ 5 K€/mois encaissés, offre validée par des ventes réelles, accès tracking accepté) : le mix de réussite clients est le paramètre n°1 des unit economics (tornado §6.5) ; sans barre d'entrée, le modèle finance des échecs à 5,2 K€ pièce qui consomment la capacité.
 2. **Attribution contractualisée avant la première signature** (baseline écrite, accès Stripe lecture seule, % sur cash encaissé net de remboursements, fenêtre 90 jours, plafond, relecture par avocat — §6.7) : c'est le paramètre n°2, et le point de défaillance documenté du success fee.
 3. **6 mois de trésorerie personnelle** (ou 3-4 ventes d'amorçage à part fixe majorée) : le creux de cash-flow des mois 1-8 est mécanique (T7, §6.8).
 
-**Positionnement** : « le partenaire de croissance qui ne gagne que si vous gagnez » — skin in the game contractuel + transparence radicale (entité française à comptes publics, prix affiché) + sélectivité assumée (§7.4). **Profil de client de départ** : persona 2, « l'établi en plateau » — coach business, consultant ou infopreneur francophone à 5-15 K€/mois, plafonné depuis 6-18 mois (§3.6). **Structure d'offre** : 5 000 € d'entrée + 12,5 % du cash incrémental encaissé (15 % si baseline 5-8 K€), 12 mois, plafond 45 K€, sortie M4 (§8.4).
+**Positionnement** : « l'accompagnement qui ne gagne que si vous gagnez » — skin in the game contractuel + transparence radicale (entité française à comptes publics, prix affiché) + sélectivité assumée (§7.4). **Profil de client de départ** : persona 2, « l'établi en plateau » — coach business, consultant ou infopreneur francophone à 5-15 K€/mois, plafonné depuis 6-18 mois (§3.6). **Structure d'offre** : 5 000 € de setup + 15 % du cash incrémental encaissé, 12 mois, plafond 50 K€/an, sortie M4, thèse de service 25-35 K€/mois en ~4 mois (§8.4, plan financier §6.9).
 
 **Pourquoi GO** : white space contractuel réel (19 fiches : zéro hybride sur résultat — §7.2), demande de résultat documentée (pivot TheBBoost — §3.3), défiance qui rend l'inversion du risque monétisable (close rate ~2× — §6.4), SOM atteignable avec 12-20 clients (§2.4). **Pourquoi CONDITIONNEL** : unit economics inférieures au cash par client (16,8 vs 25 K€), dépendance au mix de réussite et à la collecte, creux de trésorerie, exécution plus exigeante que le modèle qu'il remplace, et un plafond naturel (~1-2 M€/an) qui impose à terme une évolution du mix prix (part fixe croissante — trajectoire Hollaender, §4.8).
 
@@ -652,13 +675,13 @@ Cohérence benchmark : le coût/appel implicite (125-167 €) est dans le haut d
 
 **M1-M3 — Preuve d'amorçage.** 3-5 clients fondateurs à 5 K€ + 10 % contre étude de cas nommée contractualisée ; documentation publique de la construction (build in public LinkedIn, §9.4) ; premier passage podcast avec l'angle « j'ai triangulé les revenus réels du marché ».
 
-**M4-M6 — Validation du modèle.** Jauges : close rate ≥20 % sur ≥15 appels ; ≥2 clients fondateurs au-dessus de leur baseline à M3 ; collecte perf sans friction majeure. **Si 2 des 3 jauges échouent : pivot** (voir 10.4). Sinon : passage au tarif plein (5 K€ + 12,5-15 %).
+**M4-M6 — Validation du modèle.** Jauges : close rate ≥20 % sur ≥15 appels ; ≥2 clients fondateurs au-dessus de leur baseline à M3 ; collecte perf sans friction majeure. **Si 2 des 3 jauges échouent : pivot** (voir 10.4). Sinon : confirmation du tarif (5 K€ + 15 %) et mise à feu du budget média (§9.6).
 
 **M7-M12 — Montée en charge.** 12-20 clients signés cumulés ; 2-3 études de cas nommées publiées avec chiffres vérifiables ; portefeuille plafonné à 10-12 actifs — au-delà, montée du fixe (7,5-10 K€) plutôt que recrutement précipité (le pricing comme soupape, §9.5). Objectif encaissé année 1 : **100-300 K€**.
 
 **Année 2-3 (esquisse, configuration organique).** Constitution d'un délivery léger (1-2 personnes) ; extension au persona 3 (dirigeants structurés, panier 15-30 K€) avec les études de cas comme droit d'entrée ; part fixe croissante à mesure que la marque de preuve s'installe ; 350-900 K€/an (SOM §2.4).
 
-**Variante scale (configuration retenue par le commanditaire — chiffrage complet §9.6).** La même séquence M0-M6 reste OBLIGATOIRE (fondations contractuelles + 3-5 clients fondateurs + jauges de validation) : on ne branche pas 1 K€/jour de pub sur une offre non validée en vente réelle. Ensuite : M4-M6 = montée progressive du budget (250 → 1 000 €/jour) avec itération créative vidéo, bascule au mix « Palier Scale » (5 K€ + 1 995 €/mois + 10 %) ; M6-M12 = recrutement de la livraison PAR PALIERS indexés sur le ratio clients/tête (embauche quand le ratio atteint 15:1, jamais en anticipation de plus d'un mois) ; objectif fin M12 : 210 clients actifs (ramp prudent) à 300 (volontariste), 4,0-6,5 M€ de CA an 1 ; saturation des 300 entre M13 et M26 → 13,2 M€/an. Les trois soupapes anti-surchauffe, dans l'ordre : hausse de la part fixe, durcissement de la qualification, extension d'équipe.
+**Variante scale (configuration retenue par le commanditaire — chiffrage complet §9.6).** La même séquence M0-M6 reste OBLIGATOIRE (fondations contractuelles + 3-5 clients fondateurs + jauges de validation) : on ne branche pas 1 K€/jour de pub sur une offre non validée en vente réelle. Ensuite : M4-M6 = montée progressive du budget (250 → 1 000 €/jour) avec itération créative vidéo, offre maintenue à 5 K€ + 15 % (l'option mensualisée 1 995 €/mois + 10 % reste le repli contractuel prévu si la collecte perf déçoit) ; M6-M12 = recrutement de la livraison PAR PALIERS indexés sur le ratio clients/tête (embauche quand le ratio atteint 15:1, jamais en anticipation de plus d'un mois) ; objectif fin M12 : 210 clients actifs (ramp prudent) à 300 (volontariste), 3,3-5,4 M€ de CA an 1 ; saturation des 300 entre M13 et M26 → ~10,5 M€/an (thèse pleine). Les trois soupapes anti-surchauffe, dans l'ordre : hausse de la part fixe, durcissement de la qualification, extension d'équipe.
 
 ## 10.3 Risques et mitigations
 
@@ -670,7 +693,7 @@ Cohérence benchmark : le coût/appel implicite (125-167 €) est dans le haut d
 | Copycat par un acteur à audience (Scalezia, Coudac…) | Moyenne à 12-24 mois | Moyen | Vitesse : stock d'études de cas nommées (inimitable à court terme) ; la mécanique d'attribution comme barrière d'exécution (§7.1) |
 | Requalification (agent commercial / salariat) | Faible | Fort | Structuration « accompagnement global » (pas de mandat de vente) ; revue avocat ; veille jurisprudence (§6.7) |
 | Assimilation aux « vendeurs de rêve » (risque réputationnel sectoriel) | Élevée | Moyen | Zéro claim personnel invérifiable ; conformité loi influenceurs ; transparence comme identité — et la tenir à 100 % (§5.4) |
-| Client qui réussit fort et conteste le « surcoût » vs cash | Faible | Faible | Plafond 45 K€ + framing assumé du « prix de l'assurance » dès la vente (§8.3, T8) |
+| Client qui réussit fort et conteste le « surcoût » vs cash | Faible | Faible | Plafond 50 K€/an + framing assumé du « prix de l'assurance » dès la vente (§8.3) |
 
 ## 10.4 Pivots préparés (si les jauges M6 échouent)
 

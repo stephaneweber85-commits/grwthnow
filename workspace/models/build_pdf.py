@@ -20,8 +20,11 @@ annexes = []
 annexes.append(("Annexe A — Modèle économique : hypothèses et tables complètes (T1-T10)",
                 demote((WS / "findings" / "ws6-model-output.md").read_text())))
 
-annexes.append(("Annexe A2 — Modèle scale : moteur payant 1 K€/jour, capacité 300 clients, P&L cible",
+annexes.append(("Annexe A2 — Modèle scale : moteur payant 1 K€/jour, capacité 300 clients",
                 demote((WS / "findings" / "ws-scale-model.md").read_text())))
+
+annexes.append(("Annexe A3 — Plan financier : 5 K€ + 15 %, thèse ×3-4, test de robustesse et P&L",
+                demote((WS / "findings" / "ws-finance-plan.md").read_text())))
 
 annexes.append(("Annexe B — Chain-of-Verification : les 12 verdicts détaillés",
                 demote((WS / "findings" / "cov-verdicts.md").read_text())))
@@ -112,9 +115,9 @@ code { font-family: 'DejaVu Sans Mono', monospace; font-size: 8.5pt; background:
 
 cover = """
 <div class="cover">
-<h1>Partenaire de croissance francophone<br/>à facturation hybride<br/>5 K€ + 10-15 % des résultats</h1>
+<h1>Accompagnement business<br/>à résultats partagés<br/>5 K€ de setup + 15 % à la performance</h1>
 <div class="sub">Étude de marché décisionnelle — dossier complet avec annexes<br/>
-Rapport (11 sections) · Modèle économique · Chain-of-Verification · 20 fiches acteurs · 9 dossiers workstreams</div>
+Rapport (11 sections) · Plan financier & robustesse · Chain-of-Verification · 20 fiches acteurs · 9 dossiers workstreams</div>
 <div class="verdict">VERDICT : GO CONDITIONNEL</div>
 <div class="meta">Commanditaire : Stéphane Weber · 3 juillet 2026<br/>
 Sources publiques gratuites exclusivement · ~250 URL sources · revenus des 19 acteurs triangulés<br/>
@@ -123,7 +126,7 @@ Vérification indépendante : 10 affirmations critiques sur 12 confirmées au ch
 """
 
 html_doc = f"""<!DOCTYPE html>
-<html lang="fr"><head><meta charset="utf-8"><title>Étude growth partner francophone — dossier complet</title>
+<html lang="fr"><head><meta charset="utf-8"><title>Étude de marché — accompagnement à résultats partagés (dossier complet)</title>
 <style>{css}</style></head><body>{cover}{body_html}</body></html>"""
 
 OUT_HTML.write_text(html_doc)

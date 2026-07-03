@@ -2,13 +2,13 @@
 
 ## 10.1 Verdict : GO CONDITIONNEL
 
-**GO** sur le lancement d'une activité de partenaire de croissance francophone en facturation hybride — **à trois conditions non négociables**, chacune établie par l'étude :
+**GO** sur le lancement d'une activité francophone d'accompagnement à résultats partagés — **à trois conditions non négociables**, chacune établie par l'étude :
 
 1. **Qualification d'entrée stricte** (baseline ≥ 5 K€/mois encaissés, offre validée par des ventes réelles, accès tracking accepté) : le mix de réussite clients est le paramètre n°1 des unit economics (tornado §6.5) ; sans barre d'entrée, le modèle finance des échecs à 5,2 K€ pièce qui consomment la capacité.
 2. **Attribution contractualisée avant la première signature** (baseline écrite, accès Stripe lecture seule, % sur cash encaissé net de remboursements, fenêtre 90 jours, plafond, relecture par avocat — §6.7) : c'est le paramètre n°2, et le point de défaillance documenté du success fee.
 3. **6 mois de trésorerie personnelle** (ou 3-4 ventes d'amorçage à part fixe majorée) : le creux de cash-flow des mois 1-8 est mécanique (T7, §6.8).
 
-**Positionnement** : « le partenaire de croissance qui ne gagne que si vous gagnez » — skin in the game contractuel + transparence radicale (entité française à comptes publics, prix affiché) + sélectivité assumée (§7.4). **Profil de client de départ** : persona 2, « l'établi en plateau » — coach business, consultant ou infopreneur francophone à 5-15 K€/mois, plafonné depuis 6-18 mois (§3.6). **Structure d'offre** : 5 000 € d'entrée + 12,5 % du cash incrémental encaissé (15 % si baseline 5-8 K€), 12 mois, plafond 45 K€, sortie M4 (§8.4).
+**Positionnement** : « l'accompagnement qui ne gagne que si vous gagnez » — skin in the game contractuel + transparence radicale (entité française à comptes publics, prix affiché) + sélectivité assumée (§7.4). **Profil de client de départ** : persona 2, « l'établi en plateau » — coach business, consultant ou infopreneur francophone à 5-15 K€/mois, plafonné depuis 6-18 mois (§3.6). **Structure d'offre** : 5 000 € de setup + 15 % du cash incrémental encaissé, 12 mois, plafond 50 K€/an, sortie M4, thèse de service 25-35 K€/mois en ~4 mois (§8.4, plan financier §6.9).
 
 **Pourquoi GO** : white space contractuel réel (19 fiches : zéro hybride sur résultat — §7.2), demande de résultat documentée (pivot TheBBoost — §3.3), défiance qui rend l'inversion du risque monétisable (close rate ~2× — §6.4), SOM atteignable avec 12-20 clients (§2.4). **Pourquoi CONDITIONNEL** : unit economics inférieures au cash par client (16,8 vs 25 K€), dépendance au mix de réussite et à la collecte, creux de trésorerie, exécution plus exigeante que le modèle qu'il remplace, et un plafond naturel (~1-2 M€/an) qui impose à terme une évolution du mix prix (part fixe croissante — trajectoire Hollaender, §4.8).
 
@@ -31,13 +31,13 @@
 
 **M1-M3 — Preuve d'amorçage.** 3-5 clients fondateurs à 5 K€ + 10 % contre étude de cas nommée contractualisée ; documentation publique de la construction (build in public LinkedIn, §9.4) ; premier passage podcast avec l'angle « j'ai triangulé les revenus réels du marché ».
 
-**M4-M6 — Validation du modèle.** Jauges : close rate ≥20 % sur ≥15 appels ; ≥2 clients fondateurs au-dessus de leur baseline à M3 ; collecte perf sans friction majeure. **Si 2 des 3 jauges échouent : pivot** (voir 10.4). Sinon : passage au tarif plein (5 K€ + 12,5-15 %).
+**M4-M6 — Validation du modèle.** Jauges : close rate ≥20 % sur ≥15 appels ; ≥2 clients fondateurs au-dessus de leur baseline à M3 ; collecte perf sans friction majeure. **Si 2 des 3 jauges échouent : pivot** (voir 10.4). Sinon : confirmation du tarif (5 K€ + 15 %) et mise à feu du budget média (§9.6).
 
 **M7-M12 — Montée en charge.** 12-20 clients signés cumulés ; 2-3 études de cas nommées publiées avec chiffres vérifiables ; portefeuille plafonné à 10-12 actifs — au-delà, montée du fixe (7,5-10 K€) plutôt que recrutement précipité (le pricing comme soupape, §9.5). Objectif encaissé année 1 : **100-300 K€**.
 
 **Année 2-3 (esquisse, configuration organique).** Constitution d'un délivery léger (1-2 personnes) ; extension au persona 3 (dirigeants structurés, panier 15-30 K€) avec les études de cas comme droit d'entrée ; part fixe croissante à mesure que la marque de preuve s'installe ; 350-900 K€/an (SOM §2.4).
 
-**Variante scale (configuration retenue par le commanditaire — chiffrage complet §9.6).** La même séquence M0-M6 reste OBLIGATOIRE (fondations contractuelles + 3-5 clients fondateurs + jauges de validation) : on ne branche pas 1 K€/jour de pub sur une offre non validée en vente réelle. Ensuite : M4-M6 = montée progressive du budget (250 → 1 000 €/jour) avec itération créative vidéo, bascule au mix « Palier Scale » (5 K€ + 1 995 €/mois + 10 %) ; M6-M12 = recrutement de la livraison PAR PALIERS indexés sur le ratio clients/tête (embauche quand le ratio atteint 15:1, jamais en anticipation de plus d'un mois) ; objectif fin M12 : 210 clients actifs (ramp prudent) à 300 (volontariste), 4,0-6,5 M€ de CA an 1 ; saturation des 300 entre M13 et M26 → 13,2 M€/an. Les trois soupapes anti-surchauffe, dans l'ordre : hausse de la part fixe, durcissement de la qualification, extension d'équipe.
+**Variante scale (configuration retenue par le commanditaire — chiffrage complet §9.6).** La même séquence M0-M6 reste OBLIGATOIRE (fondations contractuelles + 3-5 clients fondateurs + jauges de validation) : on ne branche pas 1 K€/jour de pub sur une offre non validée en vente réelle. Ensuite : M4-M6 = montée progressive du budget (250 → 1 000 €/jour) avec itération créative vidéo, offre maintenue à 5 K€ + 15 % (l'option mensualisée 1 995 €/mois + 10 % reste le repli contractuel prévu si la collecte perf déçoit) ; M6-M12 = recrutement de la livraison PAR PALIERS indexés sur le ratio clients/tête (embauche quand le ratio atteint 15:1, jamais en anticipation de plus d'un mois) ; objectif fin M12 : 210 clients actifs (ramp prudent) à 300 (volontariste), 3,3-5,4 M€ de CA an 1 ; saturation des 300 entre M13 et M26 → ~10,5 M€/an (thèse pleine). Les trois soupapes anti-surchauffe, dans l'ordre : hausse de la part fixe, durcissement de la qualification, extension d'équipe.
 
 ## 10.3 Risques et mitigations
 
@@ -49,7 +49,7 @@
 | Copycat par un acteur à audience (Scalezia, Coudac…) | Moyenne à 12-24 mois | Moyen | Vitesse : stock d'études de cas nommées (inimitable à court terme) ; la mécanique d'attribution comme barrière d'exécution (§7.1) |
 | Requalification (agent commercial / salariat) | Faible | Fort | Structuration « accompagnement global » (pas de mandat de vente) ; revue avocat ; veille jurisprudence (§6.7) |
 | Assimilation aux « vendeurs de rêve » (risque réputationnel sectoriel) | Élevée | Moyen | Zéro claim personnel invérifiable ; conformité loi influenceurs ; transparence comme identité — et la tenir à 100 % (§5.4) |
-| Client qui réussit fort et conteste le « surcoût » vs cash | Faible | Faible | Plafond 45 K€ + framing assumé du « prix de l'assurance » dès la vente (§8.3, T8) |
+| Client qui réussit fort et conteste le « surcoût » vs cash | Faible | Faible | Plafond 50 K€/an + framing assumé du « prix de l'assurance » dès la vente (§8.3) |
 
 ## 10.4 Pivots préparés (si les jauges M6 échouent)
 
