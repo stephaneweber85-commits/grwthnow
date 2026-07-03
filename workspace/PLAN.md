@@ -22,7 +22,8 @@ de valeur, (5) go/no-go + positionnement + profil client de départ.
 - [x] WS9 — GTM 3 étages (§9)
 - [x] WS-CRITIQUE — Réputation/exposés intégrés (§3.4, §5.3, fiches)
 - [x] Rapport assemblé : deliverable/etude_marche_growth_partner_perf.md (~18,5K mots + 25 tableaux)
-- [~] Chain-of-Verification : 8/12 verdicts rendus (C1,C3-C8 confirmés ; C2 partiel corrigé) — C9-C12 en cours
+- [x] Chain-of-Verification : 12/12 — 10 CONFIRMÉS au chiffre près, 2 PARTIELS corrigés, 0 CONTREDIT (findings/cov-verdicts.md)
+- [x] Checklist de vérification : 9/9 PASS ; rubrique qualité ≈ 4,3/5 → LIVRÉ
 
 ## Phases
 1. TRIAGE (~15%) : fait — ancrage OK, workflow discovery lancé
